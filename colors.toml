@@ -1,0 +1,38 @@
+# image-of-the-day — 2026-09-02 — Painted along the shore
+# Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
+
+mode = "dark"
+
+accent = "#697bb5"
+selection = "#261c1a"
+muted = "#706a65"
+
+# Backgrounds
+background = "#0e0300"
+dark_background = "#0a0200"
+darker_background = "#080200"
+lighter_background = "#261c1a"
+
+# Foregrounds
+foreground = "#fbe2bd"
+dark_foreground = "#84725e"
+light_foreground = "#d7c1a1"
+bright_foreground = "#fbe2bd"
+
+# Normal colors
+red = "#b58551"
+yellow = "#937a05"
+orange = "#c0986c"
+green = "#ecd397"
+cyan = "#aac9ff"
+blue = "#697bb5"
+magenta = "#819bd3"
+brown = "#755c40"
+
+# Bright colors
+bright_red = "#dea964"
+bright_yellow = "#baa000"
+bright_green = "#ffdf74"
+bright_cyan = "#abd3ff"
+bright_blue = "#8c9ee7"
+bright_magenta = "#a5c0ff"
