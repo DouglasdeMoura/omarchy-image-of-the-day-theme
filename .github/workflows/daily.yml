@@ -1,0 +1,127 @@
+name: Daily theme
+
+# Builds the theme from Bing's image of the day and publishes it:
+# commit → tag (calver) → release with the image, palette and previews.
+# All executable code lives under .github/ — the repo root is theme data only.
+
+on:
+  schedule:
+    - cron: "43 16 * * *" # after Bing's ~14:00–16:00 UTC image rollover
+    - cron: "17 21 * * *" # catch-up in case the first run still saw yesterday's image
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if today's image is unchanged"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Never cancel a mid-flight build; the catch-up cron queues behind it.
+concurrency:
+  group: daily-theme
+  cancel-in-progress: false
+
+env:
+  AETHER_VERSION: v4.29.8
+  AETHER_SHA256: d3d2d07b32da7a495221ed271ee66f4a1e344c91dcec9b267ec0a74ab6e36462
+  AETHER_URL: https://github.com/omacom/aether/releases/download
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: .github/scripts/requirements.txt
+
+      - name: Install Pillow
+        run: pip install -r .github/scripts/requirements.txt
+
+      # aether links against WebKit/GTK; names shifted across Ubuntu releases.
+      # Best effort only — the builder falls back to Pillow if aether cannot run.
+      - name: Install aether runtime libraries
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends libwebkit2gtk-4.1-0 libgtk-3-0 \
+            || sudo apt-get install -y -qq --no-install-recommends libwebkit2gtk-4.1-0t64 libgtk-3-0t64
+
+      # A checksum mismatch must remove the binary: never execute an unverified
+      # download. Downgrading to the Pillow fallback is preferable.
+      - name: Download aether
+        continue-on-error: true
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/aether" "$AETHER_URL/$AETHER_VERSION/aether-linux-amd64"
+          chmod +x "$RUNNER_TEMP/aether"
+          echo "$AETHER_SHA256  $RUNNER_TEMP/aether" | sha256sum -c --status || {
+            echo "::warning::aether checksum mismatch — removed the binary, building with the Pillow fallback"
+            rm -f "$RUNNER_TEMP/aether"
+          }
+
+      - name: Build theme
+        id: build
+        env:
+          AETHER_PATH: ${{ runner.temp }}/aether
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ inputs.force }}" = "true" ]; then FORCE_FLAG="--force"; fi
+          PYTHONPATH=.github/scripts python -m theme_builder $FORCE_FLAG
+
+      - name: Commit and push
+        id: commit
+        if: steps.build.outputs.updated == 'true'
+        env:
+          COMMIT_TITLE: ${{ steps.build.outputs.commit_title }}
+          HSH: ${{ steps.build.outputs.hsh }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "$COMMIT_TITLE" -m "hsh $HSH"
+          git pull --rebase origin main
+          git push origin main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Tag
+        id: tag
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          TAG: ${{ steps.build.outputs.tag }}
+        run: |
+          # checkout fetches no tags, so ask the remote (idempotent on re-runs).
+          if [ -n "$(git ls-remote --tags origin "refs/tags/$TAG")" ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git tag "$TAG"
+          git push origin "$TAG"
+          echo "exists=false" >> "$GITHUB_OUTPUT"
+
+      - name: Release
+        if: steps.tag.outputs.exists == 'false'
+        uses: softprops/action-gh-release@efb35369e0ad2afab669f5f228072c1b0d510eae64 # v3.0.3
+        with:
+          tag_name: ${{ steps.build.outputs.tag }}
+          name: ${{ steps.build.outputs.tag }} — ${{ steps.build.outputs.title }}
+          body_path: .github/dist/release-notes.md
+          files: |
+            backgrounds/${{ steps.build.outputs.slug }}
+            colors.toml
+            preview.png
+            preview-unlock.png
+            unlock.png
+            .github/dist/palette.json
+          fail_on_unmatched_files: true
