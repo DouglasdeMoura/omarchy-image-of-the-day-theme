@@ -124,9 +124,10 @@ def write_release_notes(dist: Path, meta: dict, palette: dict[str, str], ratios:
         "| Key | Color |",
         "| --- | --- |",
     ]
-    # Each row shows a swatch dot image (a release asset) next to the hex.
+    # Each row shows a swatch dot image (a release asset, uploaded under its
+    # bare basename by the workflow's glob) next to the hex.
     lines += [
-        f"| `{k}` | ![{palette[k]}]({_REPO}/releases/download/{meta['tag']}/swatches/{k}.png) `{palette[k]}` |"
+        f"| `{k}` | ![{palette[k]}]({_REPO}/releases/download/{meta['tag']}/{k}.png) `{palette[k]}` |"
         for k in KEY_ORDER if k != "mode"
     ]
 
