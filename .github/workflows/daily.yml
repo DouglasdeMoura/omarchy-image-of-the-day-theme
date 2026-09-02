@@ -112,7 +112,7 @@ jobs:
 
       - name: Release
         if: steps.tag.outputs.exists == 'false'
-        uses: softprops/action-gh-release@efb35369e0ad2afab669f5f228072c1b0d510eae64 # v3.0.3
+        uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
         with:
           tag_name: ${{ steps.build.outputs.tag }}
           name: ${{ steps.build.outputs.tag }} — ${{ steps.build.outputs.title }}
