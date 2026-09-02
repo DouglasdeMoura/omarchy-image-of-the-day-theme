@@ -1,6 +1,7 @@
 {
   "hsh": "7a260c2728bf9356dba2e1678b6f4e1c",
   "date": "2026-09-02",
+  "tag": "v2026.09.02",
   "startdate": "20260902",
   "title": "Painted along the shore",
   "copyright": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)",
@@ -12,7 +13,7 @@
   "image_file": "backgrounds/1-painted-along-the-shore.jpg",
   "image_url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg",
   "generator": {
-    "theme_builder": "1.0.0",
+    "theme_builder": "1.2.0",
     "aether": "aether 4.29.8",
     "pillow": "12.3.0"
   },
