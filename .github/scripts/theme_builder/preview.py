@@ -206,23 +206,24 @@ def render_preview(wallpaper: Path, palette: dict[str, str], dest: Path) -> None
     print(f"wrote {dest} ({PREVIEW_SIZE[0]}x{PREVIEW_SIZE[1]})")
 
 
-def render_preview_unlock(wallpaper: Path, palette: dict[str, str], unlock_png: Path, dest: Path) -> None:
-    img = cover_crop(load_image(wallpaper), *UNLOCK_PREVIEW_SIZE)
-    img = dim(img, hex_to_rgb(palette["background"]), 0.45)
-    draw = ImageDraw.Draw(img)
-    w, h = UNLOCK_PREVIEW_SIZE
-
-    clock_font = load_font(220, bold=True)
-    clock_w = draw.textlength(MOCK_CLOCK, font=clock_font)
-    _text(draw, ((w - clock_w) / 2, h * 0.24), MOCK_CLOCK, clock_font, _rgb(palette, "foreground"))
-
+def render_preview_unlock(palette: dict[str, str], unlock_png: Path, dest: Path) -> None:
+    """Official composition: solid theme background with the logo centered."""
+    img = Image.new("RGB", UNLOCK_PREVIEW_SIZE, _rgb(palette, "background"))
     banner = Image.open(unlock_png).convert("RGBA")
-    img.paste(banner, ((w - banner.width) // 2, int(h * 0.58)), banner)
-
-    hint_font = load_font(28)
-    hint = "Type password and press Enter"
-    hint_w = draw.textlength(hint, font=hint_font)
-    _text(draw, ((w - hint_w) / 2, h * 0.86), hint, hint_font, _rgb(palette, "muted"))
-
+    w, h = UNLOCK_PREVIEW_SIZE
+    img.paste(banner, ((w - banner.width) // 2, (h - banner.height) // 2), banner)
     img.save(dest, "PNG")
     print(f"wrote {dest} ({UNLOCK_PREVIEW_SIZE[0]}x{UNLOCK_PREVIEW_SIZE[1]})")
+
+
+SWATCH_SIZE = 48
+
+
+def render_swatch(color_hex: str, dest: Path) -> None:
+    """A solid dot on transparency: the color preview in the release notes'
+    palette table. GitHub strips CSS from release pages, so the dot has to be
+    a real image shipped alongside the wallpaper as a release asset."""
+    img = Image.new("RGBA", (SWATCH_SIZE, SWATCH_SIZE), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    draw.ellipse((2, 2, SWATCH_SIZE - 2, SWATCH_SIZE - 2), fill=(*hex_to_rgb(color_hex), 255))
+    img.save(dest, "PNG")

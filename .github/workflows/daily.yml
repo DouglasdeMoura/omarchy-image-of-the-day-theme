@@ -120,8 +120,10 @@ jobs:
           files: |
             backgrounds/${{ steps.build.outputs.slug }}
             colors.toml
+            chromium.theme
             preview.png
             preview-unlock.png
             unlock.png
             .github/dist/palette.json
+            .github/dist/swatches/*.png
           fail_on_unmatched_files: true

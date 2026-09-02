@@ -19,6 +19,18 @@ _CONTRAST_TARGETS = (
     + [("foreground_vs_dark_background", 4.5), ("foreground_vs_lighter_background", 4.5)]
 )
 
+_REPO = "https://github.com/DouglasdeMoura/omarchy-image-of-the-day-theme"
+
+_CREDITS_HEADER = """# Image credits
+
+All wallpapers in this theme are Bing images of the day, © Microsoft.
+They are used here as desktop wallpapers for personal use; Microsoft owns
+the copyright, and images are removed on request.
+
+| Date | Image | Credit |
+| --- | --- | --- |
+"""
+
 
 def load_existing_state(root: Path) -> dict | None:
     state_file = root / "theme.json"
@@ -31,13 +43,14 @@ def load_existing_state(root: Path) -> dict | None:
 
 
 def build_meta(
-    *, hsh: str, date: str, startdate: str, title: str, copyright: str,
+    *, hsh: str, date: str, tag: str, startdate: str, title: str, copyright: str,
     copyrightlink: str, market: str, mode: str, source: str, icons: str,
     image_file: str, image_url: str, aether_version: str | None,
 ) -> dict:
     return {
         "hsh": hsh,
         "date": date,
+        "tag": tag,
         "startdate": startdate,
         "title": title,
         "copyright": copyright,
@@ -72,23 +85,50 @@ def write_palette_json(dist: Path, meta: dict, palette: dict[str, str], ratios: 
     return dest
 
 
+def write_credits(root: Path, meta: dict) -> Path:
+    """CREDITS.md: one row per image ever shipped; idempotent for the same date."""
+    credit = meta["copyright"]
+    if meta.get("copyrightlink"):
+        credit = f"[{credit}]({meta['copyrightlink']})"
+    row = f"| {meta['date']} | {meta['title']} | {credit} |"
+
+    dest = root / "CREDITS.md"
+    rows = []
+    if dest.is_file():
+        rows = [
+            line for line in dest.read_text(encoding="utf-8").splitlines()
+            if line.startswith("| ") and not line.startswith("| ---")
+            and not line.startswith(f"| {meta['date']} |")
+        ]
+    rows.append(row)
+    dest.write_text(_CREDITS_HEADER + "\n".join(rows) + "\n", encoding="utf-8")
+    return dest
+
+
 def write_release_notes(dist: Path, meta: dict, palette: dict[str, str], ratios: dict[str, float]) -> Path:
     targets = dict(_CONTRAST_TARGETS)
+    # Relative asset links do not resolve on GitHub release pages — use the
+    # absolute releases/download URL.
+    wallpaper_asset = f"{_REPO}/releases/download/{meta['tag']}/{meta['image_file'].split('/')[-1]}"
     lines = [
         f"# {meta['title']} ({meta['date']})",
         "",
         f"[{meta['copyright']}]({meta['copyrightlink']})",
         "",
-        f"![wallpaper]({meta['image_file'].split('/')[-1]})",
+        f"![wallpaper]({wallpaper_asset})",
         "",
         f"Mode: **{meta['mode']}** · palette: **{meta['source']}** · icons: `{meta['icons']}`",
         "",
         "## Palette",
         "",
-        "| Key | Hex |",
+        "| Key | Color |",
         "| --- | --- |",
     ]
-    lines += [f"| `{k}` | `{palette[k]}` |" for k in KEY_ORDER if k != "mode"]
+    # Each row shows a swatch dot image (a release asset) next to the hex.
+    lines += [
+        f"| `{k}` | ![{palette[k]}]({_REPO}/releases/download/{meta['tag']}/swatches/{k}.png) `{palette[k]}` |"
+        for k in KEY_ORDER if k != "mode"
+    ]
 
     lines += ["", "## Contrast (WCAG)", "", "| Check | Ratio | Target | Pass |", "| --- | --- | --- | --- |"]
     for check, target in _CONTRAST_TARGETS:
@@ -102,7 +142,7 @@ def write_release_notes(dist: Path, meta: dict, palette: dict[str, str], ratios:
         "## Install",
         "",
         "```",
-        "omarchy theme install https://github.com/DouglasdeMoura/omarchy-image-of-the-day-theme.git",
+        f"omarchy theme install {_REPO}.git",
         "omarchy theme set image-of-the-day",
         "```",
         "",

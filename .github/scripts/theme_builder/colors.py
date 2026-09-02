@@ -97,12 +97,16 @@ def derive_ramps(palette: dict[str, str]) -> None:
     palette["dark_foreground"] = rgb_to_hex(blend(fg, bg, 0.50))
 
 
-def emit_colors_toml(palette: dict[str, str], header: str) -> str:
+def emit_colors_toml(palette: dict[str, str], header: str, credit: str | None = None) -> str:
     """Render colors.toml in the exact official layout."""
     p = palette
     lines = [
         f"# image-of-the-day — {header}",
         "# Generated daily by GitHub Actions from Bing's image of the day. Do not edit.",
+    ]
+    if credit:
+        lines.append(f"# Image: {credit}")
+    lines += [
         "",
         f'mode = "{p["mode"]}"',
         "",
@@ -155,11 +159,19 @@ def icons_for_accent(accent_hex: str) -> str:
     return "Yaru"
 
 
-def write_colors_toml(root: Path, palette: dict[str, str], header: str) -> None:
-    (root / "colors.toml").write_text(emit_colors_toml(palette, header), encoding="utf-8")
+def write_colors_toml(root: Path, palette: dict[str, str], header: str, credit: str | None = None) -> None:
+    (root / "colors.toml").write_text(emit_colors_toml(palette, header, credit), encoding="utf-8")
 
 
 def write_icons_theme(root: Path, accent_hex: str) -> str:
     variant = icons_for_accent(accent_hex)
     (root / "icons.theme").write_text(variant + "\n", encoding="utf-8")
     return variant
+
+
+def write_chromium_theme(root: Path, background_hex: str) -> None:
+    """chromium.theme: the background as 'R,G,B'. omarchy-theme-set-browser
+    converts it to hex and applies it as the Chromium/Chrome/Edge/Brave
+    frame color, so the browser matches the theme's dominant surface."""
+    r, g, b = hex_to_rgb(background_hex)
+    (root / "chromium.theme").write_text(f"{r},{g},{b}\n", encoding="utf-8")

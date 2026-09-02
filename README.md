@@ -36,8 +36,9 @@ with the 4K image, `colors.toml`, and the palette as JSON.
 - `.github/workflows/daily.yml` runs after Bing's daily image rollover
   (with a catch-up run later in the day) and on manual dispatch.
 - All executable code lives under `.github/` — the repo root is pure theme
-  data (`colors.toml`, `backgrounds/`, `preview.png`, `unlock.png`,
-  `icons.theme`, `theme.json`). Nothing in the theme runs on your machine.
+  data (`colors.toml`, `backgrounds/`, `preview.png`, `preview-unlock.png`,
+  `unlock.png`, `chromium.theme`, `icons.theme`, `theme.json`, `CREDITS.md`).
+  Nothing in the theme runs on your machine.
 - Dark vs light is decided from the image's mean perceptual luma.
 - Colors are adjusted for contrast by shifting lightness only — hues are
   preserved. The contrast report for each day ships in `theme.json` and the

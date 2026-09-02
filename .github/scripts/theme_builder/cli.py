@@ -27,7 +27,7 @@ from pathlib import Path
 from PIL import Image
 
 from . import bing, colors, contrast, palette, preview, report, unlock
-from .imaging import load_image
+from .imaging import hex_to_rgb, load_image
 
 DENIED_NAMES = {"alacritty.toml", "foot.ini", "ghostty.conf", "kitty.conf", "vscode.json"}
 BACKGROUND_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
@@ -124,6 +124,17 @@ def validate_theme(root: Path) -> list[str]:
         if variant not in colors.YARU_VARIANTS:
             errors.append(f"icons.theme {variant!r} is not a known Yaru variant")
 
+    chromium_file = root / "chromium.theme"
+    if not chromium_file.is_file():
+        errors.append("missing chromium.theme")
+    else:
+        rgb = chromium_file.read_text(encoding="utf-8").strip().split(",")
+        if len(rgb) != 3 or not all(p.isdigit() and int(p) <= 255 for p in rgb):
+            errors.append("chromium.theme must be 'R,G,B' with values 0-255")
+        elif _HEX_RE.match(str(data.get("background", ""))) and \
+                tuple(int(p) for p in rgb) != hex_to_rgb(data["background"]):
+            errors.append("chromium.theme does not match colors.toml background")
+
     # Security: nothing a repo theme may not ship, and no symlinks at all.
     for path in sorted(root.rglob("*")):
         rel = path.relative_to(root)
@@ -215,6 +226,7 @@ def main(argv: list[str] | None = None) -> int:
         wallpaper_src, image_url = bing.download_image(meta, work / "today.jpg")
 
     date = f"{startdate[:4]}-{startdate[4:6]}-{startdate[6:8]}"
+    tag = "v" + date.replace("-", ".")
 
     # --- Palette pipeline ----------------------------------------------------
     mode = palette.decide_mode(wallpaper_src)
@@ -235,21 +247,23 @@ def main(argv: list[str] | None = None) -> int:
         if old.name != image_name:
             old.unlink()
 
-    colors.write_colors_toml(target_root, pal, header=f"{date} — {title}")
+    colors.write_colors_toml(target_root, pal, header=f"{date} — {title}", credit=copyright_text)
     icons_variant = colors.write_icons_theme(target_root, pal["accent"])
+    colors.write_chromium_theme(target_root, pal["background"])
 
-    unlock.render_unlock(wallpaper_src, pal, target_root / "unlock.png")
+    unlock.render_unlock(pal, target_root / "unlock.png")
     preview.render_preview(wallpaper_src, pal, target_root / "preview.png")
-    preview.render_preview_unlock(wallpaper_src, pal, target_root / "unlock.png", target_root / "preview-unlock.png")
+    preview.render_preview_unlock(pal, target_root / "unlock.png", target_root / "preview-unlock.png")
 
     # --- Provenance, then validate before anything is declared done ----------
     meta_out = report.build_meta(
-        hsh=hsh, date=date, startdate=startdate, title=title, copyright=copyright_text,
+        hsh=hsh, date=date, tag=tag, startdate=startdate, title=title, copyright=copyright_text,
         copyrightlink=copyrightlink or image_url, market=args.market, mode=mode, source=source,
         icons=icons_variant, image_file=f"backgrounds/{image_name}", image_url=image_url,
         aether_version=_aether_version(aether_path),
     )
     report.write_theme_json(target_root, meta_out, pal, ratios)
+    report.write_credits(target_root, meta_out)
 
     errors = validate_theme(target_root)
     if errors:
@@ -261,8 +275,15 @@ def main(argv: list[str] | None = None) -> int:
     report.write_palette_json(report_dir, meta_out, pal, ratios)
     report.write_release_notes(report_dir, meta_out, pal, ratios)
 
+    swatch_dir = report_dir / "swatches"
+    swatch_dir.mkdir(parents=True, exist_ok=True)
+    for key in colors.KEY_ORDER:
+        if key != "mode":
+            preview.render_swatch(pal[key], swatch_dir / f"{key}.png")
+    print(f"wrote {len(colors.KEY_ORDER) - 1} swatches ({preview.SWATCH_SIZE}x{preview.SWATCH_SIZE})")
+
     emit_outputs(
-        updated="true", hsh=hsh, date=date, tag="v" + date.replace("-", "."),
+        updated="true", hsh=hsh, date=date, tag=tag,
         title=title, mode=mode, source=source, slug=image_name,
         commit_title=f"{date}: {title}",
     )
