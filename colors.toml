@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-02 — Painted along the shore
+# image-of-the-day — 2026-09-03 — An act of wilderness
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)
+# Image: Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)
 
 mode = "dark"
 
-accent = "#697bb5"
-selection = "#261c1a"
-muted = "#706a65"
+accent = "#6983c4"
+selection = "#3a2224"
+muted = "#776e6e"
 
 # Backgrounds
-background = "#0e0300"
-dark_background = "#0a0200"
-darker_background = "#080200"
-lighter_background = "#261c1a"
+background = "#24090c"
+dark_background = "#1b0709"
+darker_background = "#140507"
+lighter_background = "#3a2224"
 
 # Foregrounds
-foreground = "#fbe2bd"
-dark_foreground = "#84725e"
-light_foreground = "#d7c1a1"
-bright_foreground = "#fbe2bd"
+foreground = "#ddcfbe"
+dark_foreground = "#806c65"
+light_foreground = "#c1b1a3"
+bright_foreground = "#ddcfbe"
 
 # Normal colors
-red = "#b58551"
-yellow = "#937a05"
-orange = "#c0986c"
-green = "#ecd397"
-cyan = "#aac9ff"
-blue = "#697bb5"
-magenta = "#819bd3"
-brown = "#755c40"
+red = "#c46657"
+yellow = "#ffa48e"
+orange = "#cd7d71"
+green = "#ff8a70"
+cyan = "#5581d7"
+blue = "#6983c4"
+magenta = "#bc7db1"
+brown = "#8b534a"
 
 # Bright colors
-bright_red = "#dea964"
-bright_yellow = "#baa000"
-bright_green = "#ffdf74"
-bright_cyan = "#abd3ff"
-bright_blue = "#8c9ee7"
-bright_magenta = "#a5c0ff"
+bright_red = "#f28874"
+bright_yellow = "#ffa583"
+bright_green = "#ffa684"
+bright_cyan = "#77a2ff"
+bright_blue = "#8ca6f8"
+bright_magenta = "#e79edf"
