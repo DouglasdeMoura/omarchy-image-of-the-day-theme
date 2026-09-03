@@ -13,7 +13,7 @@
   "image_file": "backgrounds/1-painted-along-the-shore.jpg",
   "image_url": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg",
   "generator": {
-    "theme_builder": "1.2.0",
+    "theme_builder": "1.3.0",
     "aether": "aether 4.29.8",
     "pillow": "12.3.0"
   },
