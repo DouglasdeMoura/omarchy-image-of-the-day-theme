@@ -1,0 +1,27 @@
+[90m┌──────────────────────Hardware──────────────────────┐[m
+[32m PC[m: [m20NKS0YY00 (ThinkPad T495)[m
+[32m│ ├[m: [mAMD Ryzen 5 PRO 3500U (8) @ 3.70 GHz[m
+[32m│ ├[m: [mAMD Radeon Vega 8 Graphics[m
+[32m│ ├󱄄[m: [m1920x1080 in 27", 60 Hz [External][m
+[32m│ ├󱄄[m: [m1920x1080 in 14", 60 Hz [Built-in][m
+[32m│ ├󰋊[m: [m388.45 GiB / 474.92 GiB ([31m82%[m) - btrfs[m
+[32m│ ├[m: [m17.36 GiB / 21.38 GiB ([33m81%[m)[m
+[32m└ └󰓡 [m: [m16.34 GiB / 21.38 GiB ([33m76%[m)[m
+[90m└────────────────────────────────────────────────────┘[m
+
+[90m┌──────────────────────Software──────────────────────┐[m
+[34m OS[m: [mOmarchy 4.0.2-1[m
+[34m│ ├󰔫[m: [mstable[m
+[34m│ ├[m: [mLinux 7.1.9-arch1-2[m
+[34m│ ├[m: [mHyprland 0.56.2 (Wayland)[m
+[34m│ ├[m: [mfoot 1.27.0[m
+[34m│ ├󰏖[m: [m79 (brew), 48 (flatpak), 1592 (pacman), 7 (snap)[m
+[34m│ ├󰸌[m: [mImage Of The Day [m●[m●[36m●[35m●[34m●[33m●[32m●[31m●[m
+[34m└ └[m: [mJetBrainsMono Nerd Font (9pt)[m
+[90m└────────────────────────────────────────────────────┘[m
+
+[90m┌────────────────Age / Uptime / Update───────────────┐[m
+[35m󱦟 OS Age[m: [m373 days[m
+[35m󱫐 Uptime[m: [m7 days, 4 hours, 40 mins[m
+[35m Update[m: [mWednesday, September 02 2026 at 12:11[m
+[90m└────────────────────────────────────────────────────┘[m

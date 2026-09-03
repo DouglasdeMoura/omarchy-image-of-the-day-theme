@@ -43,10 +43,18 @@ with the 4K image, `colors.toml`, and the palette as JSON.
 - Colors are adjusted for contrast by shifting lightness only — hues are
   preserved. The contrast report for each day ships in `theme.json` and the
   release notes.
+- `preview.png` is a pixel-measured reproduction of a real Omarchy desktop
+  (bar, foot window, fastfetch output) rendered as self-contained HTML and
+  screenshotted in a headless browser, colored by the day's palette.
 - History is strictly append-only (one commit per day) because
   `omarchy theme update` is a plain `git pull`.
 
-## Wallpaper license
+## Credits & licenses
 
-The wallpapers are Bing's image of the day: © Microsoft and the credited
-photographers/agencies, personal wallpaper use. See `LICENSE`.
+- Wallpapers are Bing's image of the day: © Microsoft and the credited
+  photographers/agencies, personal wallpaper use. See `LICENSE`.
+- The preview embeds JetBrainsMono Nerd Font (JetBrains Mono under the
+  SIL OFL 1.1, license in `.github/scripts/theme_builder/assets/fonts/`;
+  Nerd Font glyphs under the MIT-licensed Nerd Fonts patch set) and the
+  Omarchy logo glyph from `omarchy.ttf` (© the Omarchy project).
+- The terminal fixture mimics `fastfetch` output on Omarchy defaults.

@@ -35,7 +35,7 @@ WALLPAPER_MAX_BYTES = 3_000_000  # repo-size guard; UHD always ships on the rele
 JPEG_QUALITY = 87
 
 _EXPECTED_DIMENSIONS = {
-    "preview.png": (1800, 1012),
+    "preview.png": (1920, 1080),
     "unlock.png": (800, 188),
     "preview-unlock.png": (1920, 1080),
 }
@@ -252,7 +252,7 @@ def main(argv: list[str] | None = None) -> int:
     colors.write_chromium_theme(target_root, pal["background"])
 
     unlock.render_unlock(pal, target_root / "unlock.png")
-    preview.render_preview(wallpaper_src, pal, target_root / "preview.png")
+    preview.render_preview(wallpaper_src, pal, target_root / "preview.png", work)
     preview.render_preview_unlock(pal, target_root / "unlock.png", target_root / "preview-unlock.png")
 
     # --- Provenance, then validate before anything is declared done ----------
@@ -274,13 +274,6 @@ def main(argv: list[str] | None = None) -> int:
     report_dir = target_root if args.check else dist
     report.write_palette_json(report_dir, meta_out, pal, ratios)
     report.write_release_notes(report_dir, meta_out, pal, ratios)
-
-    swatch_dir = report_dir / "swatches"
-    swatch_dir.mkdir(parents=True, exist_ok=True)
-    for key in colors.KEY_ORDER:
-        if key != "mode":
-            preview.render_swatch(pal[key], swatch_dir / f"{key}.png")
-    print(f"wrote {len(colors.KEY_ORDER) - 1} swatches ({preview.SWATCH_SIZE}x{preview.SWATCH_SIZE})")
 
     emit_outputs(
         updated="true", hsh=hsh, date=date, tag=tag,

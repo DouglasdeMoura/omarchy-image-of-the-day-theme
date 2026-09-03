@@ -67,6 +67,15 @@ jobs:
             rm -f "$RUNNER_TEMP/aether"
           }
 
+      # The preview renderer screenshots its self-contained HTML page in a
+      # headless browser. ubuntu-latest ships Google Chrome; chromium is the
+      # fallback if the runner image ever drops it.
+      - name: Ensure a headless browser exists
+        run: |
+          command -v chromium || command -v chromium-browser \
+            || command -v google-chrome || command -v google-chrome-stable \
+            || { sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends chromium; }
+
       - name: Build theme
         id: build
         env:
@@ -125,5 +134,4 @@ jobs:
             preview-unlock.png
             unlock.png
             .github/dist/palette.json
-            .github/dist/swatches/*.png
           fail_on_unmatched_files: true

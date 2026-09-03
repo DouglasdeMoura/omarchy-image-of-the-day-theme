@@ -1,6 +1,7 @@
 """Pillow primitives shared by the preview/unlock renderers and palette code.
 
-No theme logic lives here — just image operations, color math and fonts.
+No theme logic lives here — just image operations and color math. (The
+desktop preview needs no system fonts: preview_html.py embeds its own.)
 """
 
 from __future__ import annotations
@@ -8,31 +9,7 @@ from __future__ import annotations
 import colorsys
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
-
-# Font candidates in priority order, covering GitHub's Ubuntu runners
-# (DejaVu) and typical Arch/local setups (Liberation, Noto). Falls back to
-# Pillow's built-in bitmap font when nothing is found.
-_SANS = [
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
-    "/usr/share/fonts/noto/NotoSans-Regular.ttf",
-    "/usr/share/fonts/liberation/LiberationSans-Regular.ttf",
-    "/usr/share/fonts/TTF/DejaVuSans.ttf",
-]
-_SANS_BOLD = [
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-    "/usr/share/fonts/noto/NotoSans-Bold.ttf",
-    "/usr/share/fonts/liberation/LiberationSans-Bold.ttf",
-    "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
-]
-_MONO = [
-    "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
-    "/usr/share/fonts/liberation/LiberationMono-Regular.ttf",
-    "/usr/share/fonts/TTF/CaskaydiaMonoNerdFont-Regular.ttf",
-    "/usr/share/fonts/noto/NotoSansMono-Regular.ttf",
-]
-
-_font_logged = False
+from PIL import Image, ImageDraw
 
 
 def load_image(path: Path) -> Image.Image:
@@ -75,25 +52,6 @@ def rec709_luma(img: Image.Image) -> float:
     means = small.resize((1, 1), Image.BOX).getpixel((0, 0))
     r, g, b = means
     return (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255.0
-
-
-def load_font(size: int, *, bold: bool = False, mono: bool = False):
-    """Load a font from the candidate list, else Pillow's default."""
-    global _font_logged
-    candidates = _MONO if mono else (_SANS_BOLD if bold else _SANS)
-    for path in candidates:
-        try:
-            font = ImageFont.truetype(path, size)
-            if not _font_logged:
-                print(f"font: {path}")
-                _font_logged = True
-            return font
-        except OSError:
-            continue
-    if not _font_logged:
-        print("font: Pillow default (no candidate font found)")
-        _font_logged = True
-    return ImageFont.load_default(size)
 
 
 def rounded_rect(
