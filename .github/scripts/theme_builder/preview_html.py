@@ -80,8 +80,18 @@ BAR_RIGHT = [(TRAY, 1706, 13, 6, "JB"), (AGENTS, 1731, 13, 6, "JB"),
              (PWR, 1866, 13, 6, "JB"), (NOTIF, 1894, 13, 6, "JB")]
 CLOCK = "Wednesday 18:57"   # fixed fixture — never datetime.now()
 
-BROWSER_CANDIDATES = ("chromium", "chromium-browser", "google-chrome",
-                      "google-chrome-stable")
+BROWSER_CANDIDATES = ("google-chrome", "google-chrome-stable", "chromium",
+                      "chromium-browser")
+
+
+def _browser_works(path: str) -> bool:
+    """A --version probe: Ubuntu's snap-stub chromium accepts the exec but
+    hangs on any real run, so verify the binary answers before using it."""
+    try:
+        proc = subprocess.run([path, "--version"], capture_output=True, timeout=15, text=True)
+        return proc.returncode == 0
+    except (subprocess.TimeoutExpired, OSError):
+        return False
 
 
 def _data_uri(path: Path, mime: str) -> str:
@@ -218,13 +228,16 @@ html, body {{ width: {SIZE[0]}px; height: {SIZE[1]}px; overflow: hidden; backgro
 
 
 def _find_browser() -> str:
-    candidates = [os.environ.get("CHROME_PATH"), *BROWSER_CANDIDATES]
-    for name in candidates:
-        if name and (path := shutil.which(name)):
+    override = os.environ.get("CHROME_PATH")
+    if override:
+        return override  # explicit choice: no probing
+    for name in BROWSER_CANDIDATES:
+        path = shutil.which(name)
+        if path and _browser_works(path):
             return path
     raise RuntimeError(
         "preview renderer needs headless Chromium/Chrome; tried "
-        f"{', '.join(c for c in candidates if c)} (set CHROME_PATH to override)"
+        f"{', '.join(BROWSER_CANDIDATES)} (set CHROME_PATH to override)"
     )
 
 
