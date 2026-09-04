@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-03 — An act of wilderness
+# image-of-the-day — 2026-09-04 — Red and white on the horizon
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)
+# Image: Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)
 
-mode = "dark"
+mode = "light"
 
-accent = "#6983c4"
-selection = "#3a2224"
-muted = "#776e6e"
+accent = "#10589c"
+selection = "#b3bcc8"
+muted = "#6b6d73"
 
 # Backgrounds
-background = "#24090c"
-dark_background = "#1b0709"
-darker_background = "#140507"
-lighter_background = "#3a2224"
+background = "#d3ddeb"
+dark_background = "#c8d2df"
+darker_background = "#adb5c1"
+lighter_background = "#c2cbd8"
 
 # Foregrounds
-foreground = "#ddcfbe"
-dark_foreground = "#806c65"
-light_foreground = "#c1b1a3"
-bright_foreground = "#ddcfbe"
+foreground = "#1f2102"
+dark_foreground = "#797f76"
+light_foreground = "#313419"
+bright_foreground = "#1f2102"
 
 # Normal colors
-red = "#c46657"
-yellow = "#ffa48e"
-orange = "#cd7d71"
-green = "#ff8a70"
-cyan = "#5581d7"
-blue = "#6983c4"
-magenta = "#bc7db1"
-brown = "#8b534a"
+red = "#785000"
+yellow = "#595400"
+orange = "#8d6a25"
+green = "#3d6200"
+cyan = "#0a57b8"
+blue = "#10589c"
+magenta = "#0d56b0"
+brown = "#533e16"
 
 # Bright colors
-bright_red = "#f28874"
-bright_yellow = "#ffa583"
-bright_green = "#ffa684"
-bright_cyan = "#77a2ff"
-bright_blue = "#8ca6f8"
-bright_magenta = "#e79edf"
+bright_red = "#7d5902"
+bright_yellow = "#666400"
+bright_green = "#456900"
+bright_cyan = "#0853dd"
+bright_blue = "#235fab"
+bright_magenta = "#1158d6"
