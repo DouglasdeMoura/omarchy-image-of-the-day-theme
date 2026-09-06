@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-05 — Small birds, big impact
+# image-of-the-day — 2026-09-06 — A reservoir of reflections
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)
+# Image: Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)
 
 mode = "dark"
 
-accent = "#ed3303"
-selection = "#1f201a"
-muted = "#6c6d66"
+accent = "#647bde"
+selection = "#291b1a"
+muted = "#726b67"
 
 # Backgrounds
-background = "#060700"
-dark_background = "#040500"
-darker_background = "#030400"
-lighter_background = "#1f201a"
+background = "#110200"
+dark_background = "#0d0200"
+darker_background = "#090100"
+lighter_background = "#291b1a"
 
 # Foregrounds
-foreground = "#f3dcb7"
-dark_foreground = "#7c725c"
-light_foreground = "#cfbc9c"
-bright_foreground = "#f3dcb7"
+foreground = "#f5d2c7"
+dark_foreground = "#836a64"
+light_foreground = "#d3b3a9"
+bright_foreground = "#f5d2c7"
 
 # Normal colors
-red = "#e6442e"
-yellow = "#aaaa00"
-orange = "#ea614e"
-green = "#659600"
-cyan = "#628d00"
-blue = "#ed3303"
-magenta = "#ff5339"
-brown = "#9c3e31"
+red = "#d57684"
+yellow = "#aa7302"
+orange = "#db8b97"
+green = "#d08800"
+cyan = "#617cde"
+blue = "#647bde"
+magenta = "#a365a8"
+brown = "#86535a"
 
 # Bright colors
-bright_red = "#ff6446"
-bright_yellow = "#cfd300"
-bright_green = "#84bf00"
-bright_cyan = "#80b600"
-bright_blue = "#ff5829"
-bright_magenta = "#ff7350"
+bright_red = "#ff98a8"
+bright_yellow = "#d49800"
+bright_green = "#fdad00"
+bright_cyan = "#849cff"
+bright_blue = "#879bff"
+bright_magenta = "#ce84d8"
