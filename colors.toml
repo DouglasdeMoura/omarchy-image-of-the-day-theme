@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-06 — A reservoir of reflections
+# image-of-the-day — 2026-09-07 — Labor's legacy
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)
+# Image: 'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)
 
 mode = "dark"
 
-accent = "#647bde"
-selection = "#291b1a"
-muted = "#726b67"
+accent = "#687ec6"
+selection = "#1e1e26"
+muted = "#6a6b72"
 
 # Backgrounds
-background = "#110200"
-dark_background = "#0d0200"
-darker_background = "#090100"
-lighter_background = "#291b1a"
+background = "#05050e"
+dark_background = "#04040a"
+darker_background = "#030308"
+lighter_background = "#1e1e26"
 
 # Foregrounds
-foreground = "#f5d2c7"
-dark_foreground = "#836a64"
-light_foreground = "#d3b3a9"
-bright_foreground = "#f5d2c7"
+foreground = "#e9eaeb"
+dark_foreground = "#77787c"
+light_foreground = "#c7c8ca"
+bright_foreground = "#e9eaeb"
 
 # Normal colors
-red = "#d57684"
-yellow = "#aa7302"
-orange = "#db8b97"
-green = "#d08800"
-cyan = "#617cde"
-blue = "#647bde"
-magenta = "#a365a8"
-brown = "#86535a"
+red = "#b76566"
+yellow = "#c59f52"
+orange = "#c27d7d"
+green = "#f1cc80"
+cyan = "#5681c1"
+blue = "#687ec6"
+magenta = "#af6f65"
+brown = "#7f5151"
 
 # Bright colors
-bright_red = "#ff98a8"
-bright_yellow = "#d49800"
-bright_green = "#fdad00"
-bright_cyan = "#849cff"
-bright_blue = "#879bff"
-bright_magenta = "#ce84d8"
+bright_red = "#e38787"
+bright_yellow = "#eec65d"
+bright_green = "#ffd74d"
+bright_cyan = "#78a4f5"
+bright_blue = "#8ba1fb"
+bright_magenta = "#da9285"
