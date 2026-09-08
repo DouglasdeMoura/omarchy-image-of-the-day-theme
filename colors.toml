@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-07 — Labor's legacy
+# image-of-the-day — 2026-09-08 — Fields of gold
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: 'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)
+# Image: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)
 
-mode = "dark"
+mode = "light"
 
-accent = "#687ec6"
-selection = "#1e1e26"
-muted = "#6a6b72"
+accent = "#824028"
+selection = "#d6b573"
+muted = "#6e6b66"
 
 # Backgrounds
-background = "#05050e"
-dark_background = "#04040a"
-darker_background = "#030308"
-lighter_background = "#1e1e26"
+background = "#fcd587"
+dark_background = "#efca80"
+darker_background = "#cfaf6f"
+lighter_background = "#e8c47c"
 
 # Foregrounds
-foreground = "#e9eaeb"
-dark_foreground = "#77787c"
-light_foreground = "#c7c8ca"
-bright_foreground = "#e9eaeb"
+foreground = "#131109"
+dark_foreground = "#887348"
+light_foreground = "#2a2516"
+bright_foreground = "#131109"
 
 # Normal colors
-red = "#b76566"
-yellow = "#c59f52"
-orange = "#c27d7d"
-green = "#f1cc80"
-cyan = "#5681c1"
-blue = "#687ec6"
-magenta = "#af6f65"
-brown = "#7f5151"
+red = "#5d3800"
+yellow = "#0c0000"
+orange = "#765525"
+green = "#291b00"
+cyan = "#0e0c00"
+blue = "#824028"
+magenta = "#571700"
+brown = "#453216"
 
 # Bright colors
-bright_red = "#e38787"
-bright_yellow = "#eec65d"
-bright_green = "#ffd74d"
-bright_cyan = "#78a4f5"
-bright_blue = "#8ba1fb"
-bright_magenta = "#da9285"
+bright_red = "#4e2200"
+bright_yellow = "#240300"
+bright_green = "#1c0900"
+bright_cyan = "#110f00"
+bright_blue = "#722502"
+bright_magenta = "#4a0000"
