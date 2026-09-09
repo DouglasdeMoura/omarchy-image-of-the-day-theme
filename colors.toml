@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-08 — Fields of gold
+# image-of-the-day — 2026-09-09 — Life on India's west coast
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)
+# Image: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)
 
-mode = "light"
+mode = "dark"
 
-accent = "#824028"
-selection = "#d6b573"
-muted = "#6e6b66"
+accent = "#268d86"
+selection = "#1a231d"
+muted = "#5c635f"
 
 # Backgrounds
-background = "#fcd587"
-dark_background = "#efca80"
-darker_background = "#cfaf6f"
-lighter_background = "#e8c47c"
+background = "#000b04"
+dark_background = "#000803"
+darker_background = "#000602"
+lighter_background = "#1a231d"
 
 # Foregrounds
-foreground = "#131109"
-dark_foreground = "#887348"
-light_foreground = "#2a2516"
-bright_foreground = "#131109"
+foreground = "#f8dca5"
+dark_foreground = "#7c7454"
+light_foreground = "#d3bd8d"
+bright_foreground = "#f8dca5"
 
 # Normal colors
-red = "#5d3800"
-yellow = "#0c0000"
-orange = "#765525"
-green = "#291b00"
-cyan = "#0e0c00"
-blue = "#824028"
-magenta = "#571700"
-brown = "#453216"
+red = "#9f7e21"
+yellow = "#79832e"
+orange = "#ae9242"
+green = "#568946"
+cyan = "#328f7d"
+blue = "#268d86"
+magenta = "#eed08a"
+brown = "#6d5c2a"
 
 # Bright colors
-bright_red = "#4e2200"
-bright_yellow = "#240300"
-bright_green = "#1c0900"
-bright_cyan = "#110f00"
-bright_blue = "#722502"
-bright_magenta = "#4a0000"
+bright_red = "#c7a41e"
+bright_yellow = "#9caa33"
+bright_green = "#75b056"
+bright_cyan = "#52b49e"
+bright_blue = "#45b4aa"
+bright_magenta = "#ffdb60"
