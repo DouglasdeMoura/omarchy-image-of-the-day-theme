@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-09 — Life on India's west coast
+# image-of-the-day — 2026-09-10 — A patchwork from above
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)
+# Image: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
 
 mode = "dark"
 
-accent = "#268d86"
-selection = "#1a231d"
-muted = "#5c635f"
+accent = "#268dc6"
+selection = "#291b1a"
+muted = "#726b67"
 
 # Backgrounds
-background = "#000b04"
-dark_background = "#000803"
-darker_background = "#000602"
-lighter_background = "#1a231d"
+background = "#110200"
+dark_background = "#0d0200"
+darker_background = "#090100"
+lighter_background = "#291b1a"
 
 # Foregrounds
-foreground = "#f8dca5"
-dark_foreground = "#7c7454"
-light_foreground = "#d3bd8d"
-bright_foreground = "#f8dca5"
+foreground = "#ede7de"
+dark_foreground = "#7f746f"
+light_foreground = "#ccc5bd"
+bright_foreground = "#ede7de"
 
 # Normal colors
-red = "#9f7e21"
-yellow = "#79832e"
-orange = "#ae9242"
-green = "#568946"
-cyan = "#328f7d"
-blue = "#268d86"
-magenta = "#eed08a"
-brown = "#6d5c2a"
+red = "#c06254"
+yellow = "#f5cd6d"
+orange = "#ca7a6e"
+green = "#a47d0f"
+cyan = "#5ccdfa"
+blue = "#268dc6"
+magenta = "#c85d46"
+brown = "#834d45"
 
 # Bright colors
-bright_red = "#c7a41e"
-bright_yellow = "#9caa33"
-bright_green = "#75b056"
-bright_cyan = "#52b49e"
-bright_blue = "#45b4aa"
-bright_magenta = "#ffdb60"
+bright_red = "#ef8471"
+bright_yellow = "#ffd805"
+bright_green = "#cda200"
+bright_cyan = "#21dbff"
+bright_blue = "#4cb0f6"
+bright_magenta = "#f77f60"
