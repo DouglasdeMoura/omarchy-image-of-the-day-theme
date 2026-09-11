@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-10 — A patchwork from above
+# image-of-the-day — 2026-09-11 — A legacy of heroism
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)
+# Image: The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)
 
 mode = "dark"
 
-accent = "#268dc6"
-selection = "#291b1a"
-muted = "#726b67"
+accent = "#7194d6"
+selection = "#1f1f1e"
+muted = "#6d6d65"
 
 # Backgrounds
-background = "#110200"
-dark_background = "#0d0200"
-darker_background = "#090100"
-lighter_background = "#291b1a"
+background = "#060605"
+dark_background = "#040404"
+darker_background = "#030303"
+lighter_background = "#1f1f1e"
 
 # Foregrounds
-foreground = "#ede7de"
-dark_foreground = "#7f746f"
-light_foreground = "#ccc5bd"
-bright_foreground = "#ede7de"
+foreground = "#f2f2f1"
+dark_foreground = "#7c7c7b"
+light_foreground = "#cfcfce"
+bright_foreground = "#f2f2f1"
 
 # Normal colors
-red = "#c06254"
-yellow = "#f5cd6d"
-orange = "#ca7a6e"
-green = "#a47d0f"
-cyan = "#5ccdfa"
-blue = "#268dc6"
-magenta = "#c85d46"
-brown = "#834d45"
+red = "#877c53"
+yellow = "#a69d03"
+orange = "#988f6e"
+green = "#928824"
+cyan = "#88b2eb"
+blue = "#7194d6"
+magenta = "#587ab8"
+brown = "#635d46"
 
 # Bright colors
-bright_red = "#ef8471"
-bright_yellow = "#ffd805"
-bright_green = "#cda200"
-bright_cyan = "#21dbff"
-bright_blue = "#4cb0f6"
-bright_magenta = "#f77f60"
+bright_red = "#aba06c"
+bright_yellow = "#ccc500"
+bright_green = "#b7af1c"
+bright_cyan = "#a7d2ff"
+bright_blue = "#94b7ff"
+bright_magenta = "#799ceb"
