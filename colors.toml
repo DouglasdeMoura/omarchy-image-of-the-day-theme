@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-13 — A reef above its station
+# image-of-the-day — 2026-09-14 — Where toughness takes root
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)
+# Image: Field of kochia plants, China (© lingqi xie/Getty Images)
 
 mode = "dark"
 
-accent = "#6584cc"
-selection = "#261b1d"
-muted = "#716869"
+accent = "#cd5351"
+selection = "#231e1a"
+muted = "#6f6c65"
 
 # Backgrounds
-background = "#0e0204"
-dark_background = "#0a0203"
-darker_background = "#080102"
-lighter_background = "#261b1d"
+background = "#0b0500"
+dark_background = "#080400"
+darker_background = "#060300"
+lighter_background = "#231e1a"
 
 # Foregrounds
-foreground = "#fcc349"
-dark_foreground = "#856226"
-light_foreground = "#d8a63f"
-bright_foreground = "#fcc349"
+foreground = "#f4ea4d"
+dark_foreground = "#807826"
+light_foreground = "#d1c841"
+bright_foreground = "#f4ea4d"
 
 # Normal colors
-red = "#d3796c"
-yellow = "#ffd305"
-orange = "#da8e83"
-green = "#faa100"
-cyan = "#4680d4"
-blue = "#6584cc"
-magenta = "#7675ca"
-brown = "#85554e"
+red = "#d45b49"
+yellow = "#858200"
+orange = "#db7465"
+green = "#768a00"
+cyan = "#7a8517"
+blue = "#cd5351"
+magenta = "#cd5258"
+brown = "#8e483f"
 
 # Bright colors
-bright_red = "#ff9b8a"
-bright_yellow = "#ffdf05"
-bright_green = "#ffbb05"
-bright_cyan = "#68a2ff"
-bright_blue = "#88a7ff"
-bright_magenta = "#9b96ff"
+bright_red = "#ff7b64"
+bright_yellow = "#a9a900"
+bright_green = "#97b200"
+bright_cyan = "#9dad00"
+bright_blue = "#fd746f"
+bright_magenta = "#fd7278"
