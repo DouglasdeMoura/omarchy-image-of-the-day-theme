@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-14 — Where toughness takes root
+# image-of-the-day — 2026-09-15 — A crossroad of cultures
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Field of kochia plants, China (© lingqi xie/Getty Images)
+# Image: Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
 
 mode = "dark"
 
-accent = "#cd5351"
-selection = "#231e1a"
-muted = "#6f6c65"
+accent = "#4089f9"
+selection = "#221e1c"
+muted = "#716b66"
 
 # Backgrounds
-background = "#0b0500"
-dark_background = "#080400"
-darker_background = "#060300"
-lighter_background = "#231e1a"
+background = "#090503"
+dark_background = "#070402"
+darker_background = "#050302"
+lighter_background = "#221e1c"
 
 # Foregrounds
-foreground = "#f4ea4d"
-dark_foreground = "#807826"
-light_foreground = "#d1c841"
-bright_foreground = "#f4ea4d"
+foreground = "#c6e9ff"
+dark_foreground = "#687781"
+light_foreground = "#aac7d9"
+bright_foreground = "#c6e9ff"
 
 # Normal colors
-red = "#d45b49"
-yellow = "#858200"
-orange = "#db7465"
-green = "#768a00"
-cyan = "#7a8517"
-blue = "#cd5351"
-magenta = "#cd5258"
-brown = "#8e483f"
+red = "#ba6939"
+yellow = "#ae8f20"
+orange = "#c2815a"
+green = "#dcbb5a"
+cyan = "#8ce0ff"
+blue = "#4089f9"
+magenta = "#75b4ff"
+brown = "#7f5339"
 
 # Bright colors
-bright_red = "#ff7b64"
-bright_yellow = "#a9a900"
-bright_green = "#97b200"
-bright_cyan = "#9dad00"
-bright_blue = "#fd746f"
-bright_magenta = "#fd7278"
+bright_red = "#e48c4f"
+bright_yellow = "#d7b505"
+bright_green = "#f5c900"
+bright_cyan = "#6df1ff"
+bright_blue = "#62aaff"
+bright_magenta = "#91d2ff"
