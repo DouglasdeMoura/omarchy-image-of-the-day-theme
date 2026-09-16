@@ -22,6 +22,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -36,3 +37,4 @@ the copyright, and images are removed on request.
 | 2026-09-13 | A reef above its station | [Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://www.bing.com/search?q=Cadini+di+Misurina+Dolomites&form=hpcapt&filters=HpDate%3a%2220260913_0700%22) |
 | 2026-09-14 | Where toughness takes root | [Field of kochia plants, China (© lingqi xie/Getty Images)](https://www.bing.com/search?q=kochia+plant&form=hpcapt&filters=HpDate%3a%2220260914_0700%22) |
 | 2026-09-15 | A crossroad of cultures | [Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](https://www.bing.com/search?q=Hispanic+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220260915_0700%22) |
+| 2026-09-16 | The Arctic's new explorers | [Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220260916_0700%22) |

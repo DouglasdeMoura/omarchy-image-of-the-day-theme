@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-15 — A crossroad of cultures
+# image-of-the-day — 2026-09-16 — The Arctic's new explorers
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
+# Image: Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)
 
-mode = "dark"
+mode = "light"
 
-accent = "#4089f9"
-selection = "#221e1c"
-muted = "#716b66"
+accent = "#4c7183"
+selection = "#c6d2d9"
+muted = "#7d8489"
 
 # Backgrounds
-background = "#090503"
-dark_background = "#070402"
-darker_background = "#050302"
-lighter_background = "#221e1c"
+background = "#e9f7ff"
+dark_background = "#ddebf2"
+darker_background = "#bfcbd1"
+lighter_background = "#d6e3eb"
 
 # Foregrounds
-foreground = "#c6e9ff"
-dark_foreground = "#687781"
-light_foreground = "#aac7d9"
-bright_foreground = "#c6e9ff"
+foreground = "#202727"
+dark_foreground = "#848f93"
+light_foreground = "#343c3d"
+bright_foreground = "#202727"
 
 # Normal colors
-red = "#ba6939"
-yellow = "#ae8f20"
-orange = "#c2815a"
-green = "#dcbb5a"
-cyan = "#8ce0ff"
-blue = "#4089f9"
-magenta = "#75b4ff"
-brown = "#7f5339"
+red = "#6b6a43"
+yellow = "#6d6e40"
+orange = "#81805f"
+green = "#525f41"
+cyan = "#477371"
+blue = "#4c7183"
+magenta = "#476c7f"
+brown = "#4c4c38"
 
 # Bright colors
-bright_red = "#e48c4f"
-bright_yellow = "#d7b505"
-bright_green = "#f5c900"
-bright_cyan = "#6df1ff"
-bright_blue = "#62aaff"
-bright_magenta = "#91d2ff"
+bright_red = "#727348"
+bright_yellow = "#707242"
+bright_green = "#667450"
+bright_cyan = "#4f7775"
+bright_blue = "#4c748a"
+bright_magenta = "#4c7489"
