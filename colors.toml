@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-17 — A toast to the harvest
+# image-of-the-day — 2026-09-18 — Through the heart of the pass
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)
+# Image: Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)
 
 mode = "dark"
 
-accent = "#6c9353"
-selection = "#2c2b25"
-muted = "#717169"
+accent = "#63955a"
+selection = "#282c1d"
+muted = "#6e7069"
 
 # Backgrounds
-background = "#14130d"
-dark_background = "#0f0e0a"
-darker_background = "#0b0a07"
-lighter_background = "#2c2b25"
+background = "#101404"
+dark_background = "#0c0f03"
+darker_background = "#090b02"
+lighter_background = "#282c1d"
 
 # Foregrounds
-foreground = "#ffde03"
-dark_foreground = "#8a7808"
-light_foreground = "#dcc004"
-bright_foreground = "#ffde03"
+foreground = "#fae6d3"
+dark_foreground = "#857d6c"
+light_foreground = "#d7c6b4"
+bright_foreground = "#fae6d3"
 
 # Normal colors
-red = "#bc925c"
-yellow = "#fff48f"
-orange = "#c6a375"
-green = "#d6ca75"
-cyan = "#daea7b"
-blue = "#6c9353"
-magenta = "#e99e63"
-brown = "#796446"
+red = "#b8955a"
+yellow = "#fff891"
+orange = "#c3a573"
+green = "#cdcd79"
+cyan = "#cfed84"
+blue = "#63955a"
+magenta = "#e5a15c"
+brown = "#776545"
 
 # Bright colors
-bright_red = "#daa55f"
-bright_yellow = "#fff068"
-bright_green = "#f0e16e"
-bright_cyan = "#eeff72"
-bright_blue = "#7caa5c"
-bright_magenta = "#ffad60"
+bright_red = "#d4a95c"
+bright_yellow = "#fff56c"
+bright_green = "#e6e572"
+bright_cyan = "#dfff7f"
+bright_blue = "#70ad66"
+bright_magenta = "#ffb155"
