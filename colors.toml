@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-18 — Through the heart of the pass
+# image-of-the-day — 2026-09-19 — The Alpine sound of Oktoberfest
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)
+# Image: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)
 
 mode = "dark"
 
-accent = "#63955a"
-selection = "#282c1d"
-muted = "#6e7069"
+accent = "#4a78e7"
+selection = "#1c211a"
+muted = "#5d6059"
 
 # Backgrounds
-background = "#101404"
-dark_background = "#0c0f03"
-darker_background = "#090b02"
-lighter_background = "#282c1d"
+background = "#030800"
+dark_background = "#020600"
+darker_background = "#020400"
+lighter_background = "#1c211a"
 
 # Foregrounds
-foreground = "#fae6d3"
-dark_foreground = "#857d6c"
-light_foreground = "#d7c6b4"
-bright_foreground = "#fae6d3"
+foreground = "#f4f1f3"
+dark_foreground = "#7c7c7a"
+light_foreground = "#d0cecf"
+bright_foreground = "#f4f1f3"
 
 # Normal colors
-red = "#b8955a"
-yellow = "#fff891"
-orange = "#c3a573"
-green = "#cdcd79"
-cyan = "#cfed84"
-blue = "#63955a"
-magenta = "#e5a15c"
-brown = "#776545"
+red = "#a27d0f"
+yellow = "#8c8603"
+orange = "#b09034"
+green = "#698922"
+cyan = "#8dadfd"
+blue = "#4a78e7"
+magenta = "#7c8ad6"
+brown = "#6f5b21"
 
 # Bright colors
-bright_red = "#d4a95c"
-bright_yellow = "#fff56c"
-bright_green = "#e6e572"
-bright_cyan = "#dfff7f"
-bright_blue = "#70ad66"
-bright_magenta = "#ffb155"
+bright_red = "#caa200"
+bright_yellow = "#b1ad00"
+bright_green = "#8ab215"
+bright_cyan = "#accaff"
+bright_blue = "#6c99ff"
+bright_magenta = "#a1adff"
