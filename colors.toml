@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-19 — The Alpine sound of Oktoberfest
+# image-of-the-day — 2026-09-20 — The tower that won Paris over
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)
+# Image: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)
 
-mode = "dark"
+mode = "light"
 
-accent = "#4a78e7"
-selection = "#1c211a"
-muted = "#5d6059"
+accent = "#944b4a"
+selection = "#d8cbb7"
+muted = "#827f79"
 
 # Backgrounds
-background = "#030800"
-dark_background = "#020600"
-darker_background = "#020400"
-lighter_background = "#1c211a"
+background = "#feefd7"
+dark_background = "#f1e3cc"
+darker_background = "#d0c4b0"
+lighter_background = "#eadcc6"
 
 # Foregrounds
-foreground = "#f4f1f3"
-dark_foreground = "#7c7c7a"
-light_foreground = "#d0cecf"
-bright_foreground = "#f4f1f3"
+foreground = "#1a1714"
+dark_foreground = "#8c8376"
+light_foreground = "#312d28"
+bright_foreground = "#1a1714"
 
 # Normal colors
-red = "#a27d0f"
-yellow = "#8c8603"
-orange = "#b09034"
-green = "#698922"
-cyan = "#8dadfd"
-blue = "#4a78e7"
-magenta = "#7c8ad6"
-brown = "#6f5b21"
+red = "#74401c"
+yellow = "#220000"
+orange = "#885c3d"
+green = "#422000"
+cyan = "#2b1100"
+blue = "#944b4a"
+magenta = "#6b1d03"
+brown = "#503624"
 
 # Bright colors
-bright_red = "#caa200"
-bright_yellow = "#b1ad00"
-bright_green = "#8ab215"
-bright_cyan = "#accaff"
-bright_blue = "#6c99ff"
-bright_magenta = "#a1adff"
+bright_red = "#652700"
+bright_yellow = "#300000"
+bright_green = "#350600"
+bright_cyan = "#230300"
+bright_blue = "#843033"
+bright_magenta = "#5e0000"
