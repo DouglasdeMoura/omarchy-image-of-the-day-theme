@@ -27,6 +27,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -46,3 +47,4 @@ the copyright, and images are removed on request.
 | 2026-09-18 | Through the heart of the pass | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://www.bing.com/search?q=Peak+District+National+Park&form=hpcapt&filters=HpDate%3a%2220260918_0700%22) |
 | 2026-09-19 | The Alpine sound of Oktoberfest | [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://www.bing.com/search?q=Oktoberfest&form=hpcapt&filters=HpDate%3a%2220260919_0700%22) |
 | 2026-09-20 | The tower that won Paris over | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0700%22) |
+| 2026-09-21 | Life between fur and sea | [Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/search?q=sea+otter+awareness+week&form=hpcapt&filters=HpDate%3a%2220260921_0700%22) |

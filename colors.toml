@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-20 — The tower that won Paris over
+# image-of-the-day — 2026-09-21 — Life between fur and sea
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)
+# Image: Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)
 
-mode = "light"
+mode = "dark"
 
-accent = "#944b4a"
-selection = "#d8cbb7"
-muted = "#827f79"
+accent = "#6681b0"
+selection = "#1a1e2f"
+muted = "#5a5f64"
 
 # Backgrounds
-background = "#feefd7"
-dark_background = "#f1e3cc"
-darker_background = "#d0c4b0"
-lighter_background = "#eadcc6"
+background = "#000518"
+dark_background = "#000412"
+darker_background = "#00030d"
+lighter_background = "#1a1e2f"
 
 # Foregrounds
-foreground = "#1a1714"
-dark_foreground = "#8c8376"
-light_foreground = "#312d28"
-bright_foreground = "#1a1714"
+foreground = "#f8e2b8"
+dark_foreground = "#7c7468"
+light_foreground = "#d3c1a0"
+bright_foreground = "#f8e2b8"
 
 # Normal colors
-red = "#74401c"
-yellow = "#220000"
-orange = "#885c3d"
-green = "#422000"
-cyan = "#2b1100"
-blue = "#944b4a"
-magenta = "#6b1d03"
-brown = "#503624"
+red = "#ba9e6c"
+yellow = "#917e4b"
+orange = "#c5ad83"
+green = "#a88945"
+cyan = "#617fa2"
+blue = "#6681b0"
+magenta = "#6b7da3"
+brown = "#786a4f"
 
 # Bright colors
-bright_red = "#652700"
-bright_yellow = "#300000"
-bright_green = "#350600"
-bright_cyan = "#230300"
-bright_blue = "#843033"
-bright_magenta = "#5e0000"
+bright_red = "#e2c483"
+bright_yellow = "#b6a260"
+bright_green = "#cdae56"
+bright_cyan = "#83a3cf"
+bright_blue = "#89a4e0"
+bright_magenta = "#8ea0d0"
