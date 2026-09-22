@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-21 — Life between fur and sea
+# image-of-the-day — 2026-09-22 — The golden season
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)
+# Image: Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
 
 mode = "dark"
 
-accent = "#6681b0"
-selection = "#1a1e2f"
-muted = "#5a5f64"
+accent = "#6f8fed"
+selection = "#221e1a"
+muted = "#6e6b64"
 
 # Backgrounds
-background = "#000518"
-dark_background = "#000412"
-darker_background = "#00030d"
-lighter_background = "#1a1e2f"
+background = "#090500"
+dark_background = "#070400"
+darker_background = "#050300"
+lighter_background = "#221e1a"
 
 # Foregrounds
-foreground = "#f8e2b8"
-dark_foreground = "#7c7468"
-light_foreground = "#d3c1a0"
-bright_foreground = "#f8e2b8"
+foreground = "#f3c900"
+dark_foreground = "#7e6700"
+light_foreground = "#d0ac00"
+bright_foreground = "#f3c900"
 
 # Normal colors
-red = "#ba9e6c"
-yellow = "#917e4b"
-orange = "#c5ad83"
-green = "#a88945"
-cyan = "#617fa2"
-blue = "#6681b0"
-magenta = "#6b7da3"
-brown = "#786a4f"
+red = "#ac7800"
+yellow = "#7d8025"
+orange = "#b88c27"
+green = "#7b8301"
+cyan = "#5c7ad6"
+blue = "#6f8fed"
+magenta = "#aba4ff"
+brown = "#745819"
 
 # Bright colors
-bright_red = "#e2c483"
-bright_yellow = "#b6a260"
-bright_green = "#cdae56"
-bright_cyan = "#83a3cf"
-bright_blue = "#89a4e0"
-bright_magenta = "#8ea0d0"
+bright_red = "#d69d00"
+bright_yellow = "#a0a625"
+bright_green = "#9daa00"
+bright_cyan = "#7f9cff"
+bright_blue = "#91b1ff"
+bright_magenta = "#ccc0ff"
