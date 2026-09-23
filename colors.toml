@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-22 — The golden season
+# image-of-the-day — 2026-09-23 — Beyond the last page
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
+# Image: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)
 
 mode = "dark"
 
-accent = "#6f8fed"
-selection = "#221e1a"
-muted = "#6e6b64"
+accent = "#659153"
+selection = "#24221b"
+muted = "#65645c"
 
 # Backgrounds
-background = "#090500"
-dark_background = "#070400"
-darker_background = "#050300"
-lighter_background = "#221e1a"
+background = "#0c0902"
+dark_background = "#090702"
+darker_background = "#070501"
+lighter_background = "#24221b"
 
 # Foregrounds
-foreground = "#f3c900"
-dark_foreground = "#7e6700"
-light_foreground = "#d0ac00"
-bright_foreground = "#f3c900"
+foreground = "#e1dedd"
+dark_foreground = "#767470"
+light_foreground = "#c1bebc"
+bright_foreground = "#e1dedd"
 
 # Normal colors
-red = "#ac7800"
-yellow = "#7d8025"
-orange = "#b88c27"
-green = "#7b8301"
-cyan = "#5c7ad6"
-blue = "#6f8fed"
-magenta = "#aba4ff"
-brown = "#745819"
+red = "#b79058"
+yellow = "#fff48d"
+orange = "#c2a172"
+green = "#cfc873"
+cyan = "#d1e87b"
+blue = "#659153"
+magenta = "#e49c5d"
+brown = "#766244"
 
 # Bright colors
-bright_red = "#d69d00"
-bright_yellow = "#a0a625"
-bright_green = "#9daa00"
-bright_cyan = "#7f9cff"
-bright_blue = "#91b1ff"
-bright_magenta = "#ccc0ff"
+bright_red = "#d4a45a"
+bright_yellow = "#fff26a"
+bright_green = "#e9df6c"
+bright_cyan = "#e6ff77"
+bright_blue = "#73a85e"
+bright_magenta = "#ffac57"
