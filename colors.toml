@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-23 — Beyond the last page
+# image-of-the-day — 2026-09-24 — Ash meets splash
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)
+# Image: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)
 
 mode = "dark"
 
-accent = "#659153"
-selection = "#24221b"
-muted = "#65645c"
+accent = "#4e84be"
+selection = "#281b1a"
+muted = "#716a66"
 
 # Backgrounds
-background = "#0c0902"
-dark_background = "#090702"
-darker_background = "#070501"
-lighter_background = "#24221b"
+background = "#100200"
+dark_background = "#0c0200"
+darker_background = "#090100"
+lighter_background = "#281b1a"
 
 # Foregrounds
-foreground = "#e1dedd"
-dark_foreground = "#767470"
-light_foreground = "#c1bebc"
-bright_foreground = "#e1dedd"
+foreground = "#eaeef1"
+dark_foreground = "#7d7878"
+light_foreground = "#c9cbcd"
+bright_foreground = "#eaeef1"
 
 # Normal colors
-red = "#b79058"
-yellow = "#fff48d"
-orange = "#c2a172"
-green = "#cfc873"
-cyan = "#d1e87b"
-blue = "#659153"
-magenta = "#e49c5d"
-brown = "#766244"
+red = "#b2713f"
+yellow = "#dda200"
+orange = "#bc885f"
+green = "#ba882e"
+cyan = "#36a4ba"
+blue = "#4e84be"
+magenta = "#5c7db4"
+brown = "#77553a"
 
 # Bright colors
-bright_red = "#d4a45a"
-bright_yellow = "#fff26a"
-bright_green = "#e9df6c"
-bright_cyan = "#e6ff77"
-bright_blue = "#73a85e"
-bright_magenta = "#ffac57"
+bright_red = "#da9555"
+bright_yellow = "#ffc305"
+bright_green = "#e1ac33"
+bright_cyan = "#58c9e4"
+bright_blue = "#6fa7f1"
+bright_magenta = "#7ea0e6"
