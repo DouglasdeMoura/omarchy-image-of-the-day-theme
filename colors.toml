@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-24 — Ash meets splash
+# image-of-the-day — 2026-09-25 — When the moon joins the party
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)
+# Image: Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)
 
 mode = "dark"
 
-accent = "#4e84be"
-selection = "#281b1a"
-muted = "#716a66"
+accent = "#b16677"
+selection = "#1d1a1a"
+muted = "#625a59"
 
 # Backgrounds
-background = "#100200"
-dark_background = "#0c0200"
-darker_background = "#090100"
-lighter_background = "#281b1a"
+background = "#040000"
+dark_background = "#030000"
+darker_background = "#020000"
+lighter_background = "#1d1a1a"
 
 # Foregrounds
-foreground = "#eaeef1"
-dark_foreground = "#7d7878"
-light_foreground = "#c9cbcd"
-bright_foreground = "#eaeef1"
+foreground = "#fbeeb8"
+dark_foreground = "#80775c"
+light_foreground = "#d6ca9c"
+bright_foreground = "#fbeeb8"
 
 # Normal colors
-red = "#b2713f"
-yellow = "#dda200"
-orange = "#bc885f"
-green = "#ba882e"
-cyan = "#36a4ba"
-blue = "#4e84be"
-magenta = "#5c7db4"
-brown = "#77553a"
+red = "#c4826f"
+yellow = "#ffdb99"
+orange = "#cd9585"
+green = "#f0b475"
+cyan = "#ffce66"
+blue = "#b16677"
+magenta = "#ec8d8b"
+brown = "#7d5a4f"
 
 # Bright colors
-bright_red = "#da9555"
-bright_yellow = "#ffc305"
-bright_green = "#e1ac33"
-bright_cyan = "#58c9e4"
-bright_blue = "#6fa7f1"
-bright_magenta = "#7ea0e6"
+bright_red = "#e59279"
+bright_yellow = "#ffd882"
+bright_green = "#ffc470"
+bright_cyan = "#ffe157"
+bright_blue = "#d07589"
+bright_magenta = "#ff9a98"
