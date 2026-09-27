@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-26 — The stories written across the land
+# image-of-the-day — 2026-09-27 — Night garden of the deep
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)
+# Image: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)
 
 mode = "dark"
 
-accent = "#7898d6"
-selection = "#251d1a"
-muted = "#706b65"
+accent = "#8d71b0"
+selection = "#1a1a1a"
+muted = "#6b6366"
 
 # Backgrounds
-background = "#0d0400"
-dark_background = "#0a0300"
-darker_background = "#070200"
-lighter_background = "#251d1a"
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1a1a1a"
 
 # Foregrounds
-foreground = "#fecb7b"
-dark_foreground = "#86683e"
-light_foreground = "#daad69"
-bright_foreground = "#fecb7b"
+foreground = "#f2d0c1"
+dark_foreground = "#796860"
+light_foreground = "#ceb1a4"
+bright_foreground = "#f2d0c1"
 
 # Normal colors
-red = "#b16558"
-yellow = "#887d41"
-orange = "#bd7d72"
-green = "#8f7b31"
-cyan = "#8bc4fa"
-blue = "#7898d6"
-magenta = "#a16da4"
-brown = "#7d514b"
+red = "#b781ab"
+yellow = "#ffcef3"
+orange = "#c294b8"
+green = "#aac0ff"
+cyan = "#d3ceff"
+blue = "#8d71b0"
+magenta = "#cb94da"
+brown = "#765970"
 
 # Bright colors
-bright_red = "#dd8776"
-bright_yellow = "#ada251"
-bright_green = "#b5a03b"
-bright_cyan = "#82cfff"
-bright_blue = "#9bbbff"
-bright_magenta = "#cb8ed2"
+bright_red = "#d492c6"
+bright_yellow = "#ffc8f7"
+bright_green = "#b9d4ff"
+bright_cyan = "#e7e1ff"
+bright_blue = "#a583cf"
+bright_magenta = "#e9a3fc"
