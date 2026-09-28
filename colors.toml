@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-27 — Night garden of the deep
+# image-of-the-day — 2026-09-28 — History with a view
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)
+# Image: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)
 
 mode = "dark"
 
-accent = "#8d71b0"
-selection = "#1a1a1a"
-muted = "#6b6366"
+accent = "#b77065"
+selection = "#32241a"
+muted = "#706c66"
 
 # Backgrounds
-background = "#000000"
-dark_background = "#000000"
-darker_background = "#000000"
-lighter_background = "#1a1a1a"
+background = "#1b0c00"
+dark_background = "#140900"
+darker_background = "#0f0700"
+lighter_background = "#32241a"
 
 # Foregrounds
-foreground = "#f2d0c1"
-dark_foreground = "#796860"
-light_foreground = "#ceb1a4"
-bright_foreground = "#f2d0c1"
+foreground = "#eeefef"
+dark_foreground = "#847e78"
+light_foreground = "#cecdcb"
+bright_foreground = "#eeefef"
 
 # Normal colors
-red = "#b781ab"
-yellow = "#ffcef3"
-orange = "#c294b8"
-green = "#aac0ff"
-cyan = "#d3ceff"
-blue = "#8d71b0"
-magenta = "#cb94da"
-brown = "#765970"
+red = "#c09066"
+yellow = "#ffee97"
+orange = "#caa17e"
+green = "#e2c579"
+cyan = "#eee279"
+blue = "#b77065"
+magenta = "#ec9b76"
+brown = "#7c614b"
 
 # Bright colors
-bright_red = "#d492c6"
-bright_yellow = "#ffc8f7"
-bright_green = "#b9d4ff"
-bright_cyan = "#e7e1ff"
-bright_blue = "#a583cf"
-bright_magenta = "#e9a3fc"
+bright_red = "#dfa26d"
+bright_yellow = "#ffe875"
+bright_green = "#ffd974"
+bright_cyan = "#fff66e"
+bright_blue = "#d68073"
+bright_magenta = "#ffa97b"
