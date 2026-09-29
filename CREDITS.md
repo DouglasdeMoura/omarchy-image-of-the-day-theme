@@ -35,6 +35,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -62,3 +63,4 @@ the copyright, and images are removed on request.
 | 2026-09-26 | The stories written across the land | [Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/search?q=National+Public+Lands+Day&form=hpcapt&filters=HpDate%3a%2220260926_0700%22) |
 | 2026-09-27 | Night garden of the deep | [Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://www.bing.com/search?q=Komodo+National+Park&form=hpcapt&filters=HpDate%3a%2220260927_0700%22) |
 | 2026-09-28 | History with a view | [Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://www.bing.com/search?q=Amber+Fort+Jaipur+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260928_0700%22) |
+| 2026-09-29 | Born of glaciers | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0700%22) |

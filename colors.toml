@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-28 — History with a view
+# image-of-the-day — 2026-09-29 — Born of glaciers
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)
+# Image: The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
 
 mode = "dark"
 
-accent = "#b77065"
-selection = "#32241a"
-muted = "#706c66"
+accent = "#0084b2"
+selection = "#211f1a"
+muted = "#5f5f57"
 
 # Backgrounds
-background = "#1b0c00"
-dark_background = "#140900"
-darker_background = "#0f0700"
-lighter_background = "#32241a"
+background = "#080600"
+dark_background = "#060400"
+darker_background = "#040300"
+lighter_background = "#211f1a"
 
 # Foregrounds
-foreground = "#eeefef"
-dark_foreground = "#847e78"
-light_foreground = "#cecdcb"
-bright_foreground = "#eeefef"
+foreground = "#b5e6f4"
+dark_foreground = "#5e767a"
+light_foreground = "#9bc4cf"
+bright_foreground = "#b5e6f4"
 
 # Normal colors
-red = "#c09066"
-yellow = "#ffee97"
-orange = "#caa17e"
-green = "#e2c579"
-cyan = "#eee279"
-blue = "#b77065"
-magenta = "#ec9b76"
-brown = "#7c614b"
+red = "#a27300"
+yellow = "#7e7e4c"
+orange = "#b08827"
+green = "#7e872f"
+cyan = "#0ec0c8"
+blue = "#0084b2"
+magenta = "#3189a8"
+brown = "#745a1a"
 
 # Bright colors
-bright_red = "#dfa26d"
-bright_yellow = "#ffe875"
-bright_green = "#ffd974"
-bright_cyan = "#fff66e"
-bright_blue = "#d68073"
-bright_magenta = "#ffa97b"
+bright_red = "#cb9700"
+bright_yellow = "#a1a362"
+bright_green = "#a1ae32"
+bright_cyan = "#3de5ee"
+bright_blue = "#36a7df"
+bright_magenta = "#53add3"
