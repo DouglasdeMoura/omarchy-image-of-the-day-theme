@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-29 — Born of glaciers
+# image-of-the-day — 2026-09-30 — A face you don't forget
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
+# Image: Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
 
-mode = "dark"
+mode = "light"
 
-accent = "#0084b2"
-selection = "#211f1a"
-muted = "#5f5f57"
+accent = "#8c4834"
+selection = "#d5c49f"
+muted = "#7a7772"
 
 # Backgrounds
-background = "#080600"
-dark_background = "#060400"
-darker_background = "#040300"
-lighter_background = "#211f1a"
+background = "#fae6bb"
+dark_background = "#eedab2"
+darker_background = "#cdbd99"
+lighter_background = "#e6d4ac"
 
 # Foregrounds
-foreground = "#b5e6f4"
-dark_foreground = "#5e767a"
-light_foreground = "#9bc4cf"
-bright_foreground = "#b5e6f4"
+foreground = "#130902"
+dark_foreground = "#86785e"
+light_foreground = "#2a1f14"
+bright_foreground = "#130902"
 
 # Normal colors
-red = "#a27300"
-yellow = "#7e7e4c"
-orange = "#b08827"
-green = "#7e872f"
-cyan = "#0ec0c8"
-blue = "#0084b2"
-magenta = "#3189a8"
-brown = "#745a1a"
+red = "#673f02"
+yellow = "#150000"
+orange = "#7e5b27"
+green = "#322100"
+cyan = "#171300"
+blue = "#8c4834"
+magenta = "#611d00"
+brown = "#4a3517"
 
 # Bright colors
-bright_red = "#cb9700"
-bright_yellow = "#a1a362"
-bright_green = "#a1ae32"
-bright_cyan = "#3de5ee"
-bright_blue = "#36a7df"
-bright_magenta = "#53add3"
+bright_red = "#582900"
+bright_yellow = "#260100"
+bright_green = "#240e00"
+bright_cyan = "#140e00"
+bright_blue = "#7d2d13"
+bright_magenta = "#540000"
