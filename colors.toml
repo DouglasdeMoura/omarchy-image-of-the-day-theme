@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-09-30 — A face you don't forget
+# image-of-the-day — 2026-10-01 — Reading time in granite
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)
+# Image: Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)
 
-mode = "light"
+mode = "dark"
 
-accent = "#8c4834"
-selection = "#d5c49f"
-muted = "#7a7772"
+accent = "#b76c81"
+selection = "#2f2723"
+muted = "#746d69"
 
 # Backgrounds
-background = "#fae6bb"
-dark_background = "#eedab2"
-darker_background = "#cdbd99"
-lighter_background = "#e6d4ac"
+background = "#180f0b"
+dark_background = "#120b08"
+darker_background = "#0d0806"
+lighter_background = "#2f2723"
 
 # Foregrounds
-foreground = "#130902"
-dark_foreground = "#86785e"
-light_foreground = "#2a1f14"
-bright_foreground = "#130902"
+foreground = "#fec367"
+dark_foreground = "#8b6939"
+light_foreground = "#dca859"
+bright_foreground = "#fec367"
 
 # Normal colors
-red = "#673f02"
-yellow = "#150000"
-orange = "#7e5b27"
-green = "#322100"
-cyan = "#171300"
-blue = "#8c4834"
-magenta = "#611d00"
-brown = "#4a3517"
+red = "#cb8778"
+yellow = "#ffdfa4"
+orange = "#d3998d"
+green = "#fab97f"
+cyan = "#ffd26f"
+blue = "#b76c81"
+magenta = "#f39497"
+brown = "#815c54"
 
 # Bright colors
-bright_red = "#582900"
-bright_yellow = "#260100"
-bright_green = "#240e00"
-bright_cyan = "#140e00"
-bright_blue = "#7d2d13"
-bright_magenta = "#540000"
+bright_red = "#ec9884"
+bright_yellow = "#ffd588"
+bright_green = "#ffc97b"
+bright_cyan = "#ffe15f"
+bright_blue = "#d67b95"
+bright_magenta = "#ff9fa6"
