@@ -38,6 +38,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -68,3 +69,4 @@ the copyright, and images are removed on request.
 | 2026-09-29 | Born of glaciers | [The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](https://www.bing.com/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0700%22) |
 | 2026-09-30 | A face you don't forget | [Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://www.bing.com/search?q=bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0700%22) |
 | 2026-10-01 | Reading time in granite | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22) |
+| 2026-10-02 | A river worth protecting | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://www.bing.com/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22) |

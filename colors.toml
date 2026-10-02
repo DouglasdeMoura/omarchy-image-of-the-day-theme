@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-01 — Reading time in granite
+# image-of-the-day — 2026-10-02 — A river worth protecting
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)
+# Image: Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
 
 mode = "dark"
 
-accent = "#b76c81"
-selection = "#2f2723"
-muted = "#746d69"
+accent = "#658d4e"
+selection = "#1b1b1a"
+muted = "#61625a"
 
 # Backgrounds
-background = "#180f0b"
-dark_background = "#120b08"
-darker_background = "#0d0806"
-lighter_background = "#2f2723"
+background = "#020200"
+dark_background = "#020200"
+darker_background = "#010100"
+lighter_background = "#1b1b1a"
 
 # Foregrounds
-foreground = "#fec367"
-dark_foreground = "#8b6939"
-light_foreground = "#dca859"
-bright_foreground = "#fec367"
+foreground = "#e5e3d3"
+dark_foreground = "#74726a"
+light_foreground = "#c3c1b3"
+bright_foreground = "#e5e3d3"
 
 # Normal colors
-red = "#cb8778"
-yellow = "#ffdfa4"
-orange = "#d3998d"
-green = "#fab97f"
-cyan = "#ffd26f"
-blue = "#b76c81"
-magenta = "#f39497"
-brown = "#815c54"
+red = "#b68c55"
+yellow = "#ffef88"
+orange = "#c19e6f"
+green = "#cec56f"
+cyan = "#d2e475"
+blue = "#658d4e"
+magenta = "#e2985c"
+brown = "#766142"
 
 # Bright colors
-bright_red = "#ec9884"
-bright_yellow = "#ffd588"
-bright_green = "#ffc97b"
-bright_cyan = "#ffe15f"
-bright_blue = "#d67b95"
-bright_magenta = "#ff9fa6"
+bright_red = "#d2a058"
+bright_yellow = "#fff069"
+bright_green = "#e9db67"
+bright_cyan = "#e8fc6f"
+bright_blue = "#73a557"
+bright_magenta = "#ffa757"
