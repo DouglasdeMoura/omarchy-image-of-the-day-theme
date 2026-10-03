@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-02 — A river worth protecting
+# image-of-the-day — 2026-10-03 — Catch, eat, repeat
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)
+# Image: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)
 
 mode = "dark"
 
-accent = "#658d4e"
-selection = "#1b1b1a"
-muted = "#61625a"
+accent = "#688c58"
+selection = "#201d1b"
+muted = "#6d6962"
 
 # Backgrounds
-background = "#020200"
-dark_background = "#020200"
-darker_background = "#010100"
-lighter_background = "#1b1b1a"
+background = "#070402"
+dark_background = "#050302"
+darker_background = "#040201"
+lighter_background = "#201d1b"
 
 # Foregrounds
-foreground = "#e5e3d3"
-dark_foreground = "#74726a"
-light_foreground = "#c3c1b3"
-bright_foreground = "#e5e3d3"
+foreground = "#f2f1e8"
+dark_foreground = "#7c7a75"
+light_foreground = "#cfcdc6"
+bright_foreground = "#f2f1e8"
 
 # Normal colors
-red = "#b68c55"
-yellow = "#ffef88"
-orange = "#c19e6f"
-green = "#cec56f"
-cyan = "#d2e475"
-blue = "#658d4e"
-magenta = "#e2985c"
-brown = "#766142"
+red = "#b08f60"
+yellow = "#fff09d"
+orange = "#bca078"
+green = "#cac580"
+cyan = "#d2e38a"
+blue = "#688c58"
+magenta = "#d99c6a"
+brown = "#736248"
 
 # Bright colors
-bright_red = "#d2a058"
-bright_yellow = "#fff069"
-bright_green = "#e9db67"
-bright_cyan = "#e8fc6f"
-bright_blue = "#73a557"
-bright_magenta = "#ffa757"
+bright_red = "#cba268"
+bright_yellow = "#fff388"
+bright_green = "#e4db7f"
+bright_cyan = "#e6fb8d"
+bright_blue = "#78a365"
+bright_magenta = "#fbae6c"
