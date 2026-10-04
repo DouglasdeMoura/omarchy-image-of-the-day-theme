@@ -40,6 +40,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -72,3 +73,4 @@ the copyright, and images are removed on request.
 | 2026-10-01 | Reading time in granite | [Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22) |
 | 2026-10-02 | A river worth protecting | [Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://www.bing.com/search?q=Wild+and+Scenic+Rivers+Act&form=hpcapt&filters=HpDate%3a%2220261002_0700%22) |
 | 2026-10-03 | Catch, eat, repeat | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220261003_0700%22) |
+| 2026-10-04 | The universe is calling | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22) |

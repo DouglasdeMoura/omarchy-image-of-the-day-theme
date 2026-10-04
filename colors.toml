@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-03 — Catch, eat, repeat
+# image-of-the-day — 2026-10-04 — The universe is calling
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)
+# Image: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)
 
 mode = "dark"
 
-accent = "#688c58"
-selection = "#201d1b"
-muted = "#6d6962"
+accent = "#657ebb"
+selection = "#1a1a1b"
+muted = "#5f6369"
 
 # Backgrounds
-background = "#070402"
-dark_background = "#050302"
-darker_background = "#040201"
-lighter_background = "#201d1b"
+background = "#000002"
+dark_background = "#000002"
+darker_background = "#000001"
+lighter_background = "#1a1a1b"
 
 # Foregrounds
-foreground = "#f2f1e8"
-dark_foreground = "#7c7a75"
-light_foreground = "#cfcdc6"
-bright_foreground = "#f2f1e8"
+foreground = "#e0cdbf"
+dark_foreground = "#706660"
+light_foreground = "#beaea3"
+bright_foreground = "#e0cdbf"
 
 # Normal colors
-red = "#b08f60"
-yellow = "#fff09d"
-orange = "#bca078"
-green = "#cac580"
-cyan = "#d2e38a"
-blue = "#688c58"
-magenta = "#d99c6a"
-brown = "#736248"
+red = "#9c8ac5"
+yellow = "#88ffff"
+orange = "#ab9cce"
+green = "#76cefb"
+cyan = "#8ce0ff"
+blue = "#657ebb"
+magenta = "#a1a3f4"
+brown = "#675e7d"
 
 # Bright colors
-bright_red = "#cba268"
-bright_yellow = "#fff388"
-bright_green = "#e4db7f"
-bright_cyan = "#e6fb8d"
-bright_blue = "#78a365"
-bright_magenta = "#fbae6c"
+bright_red = "#b39de6"
+bright_yellow = "#60ffff"
+bright_green = "#6ee6ff"
+bright_cyan = "#8cf7ff"
+bright_blue = "#7392dd"
+bright_magenta = "#b4b7ff"
