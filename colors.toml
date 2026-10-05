@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-04 — The universe is calling
+# image-of-the-day — 2026-10-05 — Taking the plunge, one lesson at a time
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)
+# Image: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
 
-mode = "dark"
+mode = "light"
 
-accent = "#657ebb"
-selection = "#1a1a1b"
-muted = "#5f6369"
+accent = "#7a5b54"
+selection = "#d3cdc8"
+muted = "#86807a"
 
 # Backgrounds
-background = "#000002"
-dark_background = "#000002"
-darker_background = "#000001"
-lighter_background = "#1a1a1b"
+background = "#f8f1eb"
+dark_background = "#ece5df"
+darker_background = "#cbc6c1"
+lighter_background = "#e4ded8"
 
 # Foregrounds
-foreground = "#e0cdbf"
-dark_foreground = "#706660"
-light_foreground = "#beaea3"
-bright_foreground = "#e0cdbf"
+foreground = "#070403"
+dark_foreground = "#807a77"
+light_foreground = "#1f1c1a"
+bright_foreground = "#070403"
 
 # Normal colors
-red = "#9c8ac5"
-yellow = "#88ffff"
-orange = "#ab9cce"
-green = "#76cefb"
-cyan = "#8ce0ff"
-blue = "#657ebb"
-magenta = "#a1a3f4"
-brown = "#675e7d"
+red = "#5f4b39"
+yellow = "#110600"
+orange = "#776656"
+green = "#31280c"
+cyan = "#1a1700"
+blue = "#7a5b54"
+magenta = "#513424"
+brown = "#463c33"
 
 # Bright colors
-bright_red = "#b39de6"
-bright_yellow = "#60ffff"
-bright_green = "#6ee6ff"
-bright_cyan = "#8cf7ff"
-bright_blue = "#7392dd"
-bright_magenta = "#b4b7ff"
+bright_red = "#4d3722"
+bright_yellow = "#1a0b00"
+bright_green = "#211700"
+bright_cyan = "#120e00"
+bright_blue = "#69463e"
+bright_magenta = "#421f0b"
