@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-05 — Taking the plunge, one lesson at a time
+# image-of-the-day — 2026-10-06 — Earth's story in stripes
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
+# Image: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
 
-mode = "light"
+mode = "dark"
 
-accent = "#7a5b54"
-selection = "#d3cdc8"
-muted = "#86807a"
+accent = "#7380be"
+selection = "#221e1a"
+muted = "#6e6b64"
 
 # Backgrounds
-background = "#f8f1eb"
-dark_background = "#ece5df"
-darker_background = "#cbc6c1"
-lighter_background = "#e4ded8"
+background = "#090500"
+dark_background = "#070400"
+darker_background = "#050300"
+lighter_background = "#221e1a"
 
 # Foregrounds
-foreground = "#070403"
-dark_foreground = "#807a77"
-light_foreground = "#1f1c1a"
-bright_foreground = "#070403"
+foreground = "#efe4bd"
+dark_foreground = "#7c745e"
+light_foreground = "#ccc3a1"
+bright_foreground = "#efe4bd"
 
 # Normal colors
-red = "#5f4b39"
-yellow = "#110600"
-orange = "#776656"
-green = "#31280c"
-cyan = "#1a1700"
-blue = "#7a5b54"
-magenta = "#513424"
-brown = "#463c33"
+red = "#d0867d"
+yellow = "#fae692"
+orange = "#d79891"
+green = "#e0bd6c"
+cyan = "#8672bf"
+blue = "#7380be"
+magenta = "#b380b4"
+brown = "#835b57"
 
 # Bright colors
-bright_red = "#4d3722"
-bright_yellow = "#1a0b00"
-bright_green = "#211700"
-bright_cyan = "#120e00"
-bright_blue = "#69463e"
-bright_magenta = "#421f0b"
+bright_red = "#fda99e"
+bright_yellow = "#ffee59"
+bright_green = "#f5c82d"
+bright_cyan = "#ad94f3"
+bright_blue = "#97a3f1"
+bright_magenta = "#dda2e2"

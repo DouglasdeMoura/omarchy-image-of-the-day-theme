@@ -42,6 +42,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -76,3 +77,4 @@ the copyright, and images are removed on request.
 | 2026-10-03 | Catch, eat, repeat | [Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220261003_0700%22) |
 | 2026-10-04 | The universe is calling | [Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022 (© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/search?q=World+Space+Week&form=hpcapt&filters=HpDate%3a%2220261004_0700%22) |
 | 2026-10-05 | Taking the plunge, one lesson at a time | [Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)](https://www.bing.com/search?q=World+Teachers+Day&form=hpcapt&filters=HpDate%3a%2220261005_0700%22) |
+| 2026-10-06 | Earth's story in stripes | [Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://www.bing.com/search?q=International+Geodiversity+Day&form=hpcapt&filters=HpDate%3a%2220261006_0700%22) |
