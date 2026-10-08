@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-07 — Puzzled? Follow the trail
+# image-of-the-day — 2026-10-08 — Now you 'sea' me...
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)
+# Image: Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)
 
 mode = "dark"
 
-accent = "#469267"
-selection = "#1a1a1a"
-muted = "#6b6366"
+accent = "#4d7ce7"
+selection = "#1a1e2f"
+muted = "#5a5f64"
 
 # Backgrounds
-background = "#000000"
-dark_background = "#000000"
-darker_background = "#000000"
-lighter_background = "#1a1a1a"
+background = "#000518"
+dark_background = "#000412"
+darker_background = "#00030d"
+lighter_background = "#1a1e2f"
 
 # Foregrounds
-foreground = "#e0f3c7"
-dark_foreground = "#707a64"
-light_foreground = "#becfa9"
-bright_foreground = "#e0f3c7"
+foreground = "#d7e7fa"
+dark_foreground = "#6c7689"
+light_foreground = "#b7c5d8"
+bright_foreground = "#d7e7fa"
 
 # Normal colors
-red = "#a69651"
-yellow = "#e9fa97"
-orange = "#b3a56c"
-green = "#b2cd80"
-cyan = "#abee96"
-blue = "#469267"
-magenta = "#d1a24b"
-brown = "#6d6541"
+red = "#ba6638"
+yellow = "#b46744"
+orange = "#c27e59"
+green = "#b76940"
+cyan = "#67cafa"
+blue = "#4d7ce7"
+magenta = "#4d8fcd"
+brown = "#7f5138"
 
 # Bright colors
-bright_red = "#beaa55"
-bright_yellow = "#ebff7f"
-bright_green = "#c4e77f"
-bright_cyan = "#b6ff9b"
-bright_blue = "#4aac76"
-bright_magenta = "#f1b53b"
+bright_red = "#e4894f"
+bright_yellow = "#de8a5e"
+bright_green = "#e18c58"
+bright_cyan = "#43d7ff"
+bright_blue = "#6f9cff"
+bright_magenta = "#6eb3ff"
