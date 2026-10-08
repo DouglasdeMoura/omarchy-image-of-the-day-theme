@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-06 — Earth's story in stripes
+# image-of-the-day — 2026-10-07 — Puzzled? Follow the trail
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
+# Image: Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)
 
 mode = "dark"
 
-accent = "#7380be"
-selection = "#221e1a"
-muted = "#6e6b64"
+accent = "#469267"
+selection = "#1a1a1a"
+muted = "#6b6366"
 
 # Backgrounds
-background = "#090500"
-dark_background = "#070400"
-darker_background = "#050300"
-lighter_background = "#221e1a"
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1a1a1a"
 
 # Foregrounds
-foreground = "#efe4bd"
-dark_foreground = "#7c745e"
-light_foreground = "#ccc3a1"
-bright_foreground = "#efe4bd"
+foreground = "#e0f3c7"
+dark_foreground = "#707a64"
+light_foreground = "#becfa9"
+bright_foreground = "#e0f3c7"
 
 # Normal colors
-red = "#d0867d"
-yellow = "#fae692"
-orange = "#d79891"
-green = "#e0bd6c"
-cyan = "#8672bf"
-blue = "#7380be"
-magenta = "#b380b4"
-brown = "#835b57"
+red = "#a69651"
+yellow = "#e9fa97"
+orange = "#b3a56c"
+green = "#b2cd80"
+cyan = "#abee96"
+blue = "#469267"
+magenta = "#d1a24b"
+brown = "#6d6541"
 
 # Bright colors
-bright_red = "#fda99e"
-bright_yellow = "#ffee59"
-bright_green = "#f5c82d"
-bright_cyan = "#ad94f3"
-bright_blue = "#97a3f1"
-bright_magenta = "#dda2e2"
+bright_red = "#beaa55"
+bright_yellow = "#ebff7f"
+bright_green = "#c4e77f"
+bright_cyan = "#b6ff9b"
+bright_blue = "#4aac76"
+bright_magenta = "#f1b53b"
