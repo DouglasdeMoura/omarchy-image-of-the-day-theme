@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-08 — Now you 'sea' me...
+# image-of-the-day — 2026-10-09 — Corsica's rocky outposts
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)
+# Image: View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
 
 mode = "dark"
 
-accent = "#4d7ce7"
-selection = "#1a1e2f"
+accent = "#779de9"
+selection = "#1a1f2c"
 muted = "#5a5f64"
 
 # Backgrounds
-background = "#000518"
-dark_background = "#000412"
-darker_background = "#00030d"
-lighter_background = "#1a1e2f"
+background = "#000615"
+dark_background = "#000410"
+darker_background = "#00030c"
+lighter_background = "#1a1f2c"
 
 # Foregrounds
-foreground = "#d7e7fa"
-dark_foreground = "#6c7689"
-light_foreground = "#b7c5d8"
-bright_foreground = "#d7e7fa"
+foreground = "#fef2b0"
+dark_foreground = "#7f7c62"
+light_foreground = "#d8cf99"
+bright_foreground = "#fef2b0"
 
 # Normal colors
-red = "#ba6638"
-yellow = "#b46744"
-orange = "#c27e59"
-green = "#b76940"
-cyan = "#67cafa"
-blue = "#4d7ce7"
-magenta = "#4d8fcd"
-brown = "#7f5138"
+red = "#da8559"
+yellow = "#848715"
+orange = "#e09873"
+green = "#4a8c00"
+cyan = "#44904b"
+blue = "#779de9"
+magenta = "#7a79d1"
+brown = "#895b45"
 
 # Bright colors
-bright_red = "#e4894f"
-bright_yellow = "#de8a5e"
-bright_green = "#e18c58"
-bright_cyan = "#43d7ff"
-bright_blue = "#6f9cff"
-bright_magenta = "#6eb3ff"
+bright_red = "#ffa86f"
+bright_yellow = "#a8af00"
+bright_green = "#66b500"
+bright_cyan = "#61b85c"
+bright_blue = "#9ac0ff"
+bright_magenta = "#a09aff"
