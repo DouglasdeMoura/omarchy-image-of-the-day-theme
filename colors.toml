@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-09 — Corsica's rocky outposts
+# image-of-the-day — 2026-10-10 — Life along the flyway
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
+# Image: Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
 
 mode = "dark"
 
-accent = "#779de9"
-selection = "#1a1f2c"
-muted = "#5a5f64"
+accent = "#679154"
+selection = "#21211a"
+muted = "#61615a"
 
 # Backgrounds
-background = "#000615"
-dark_background = "#000410"
-darker_background = "#00030c"
-lighter_background = "#1a1f2c"
+background = "#080801"
+dark_background = "#060601"
+darker_background = "#040401"
+lighter_background = "#21211a"
 
 # Foregrounds
-foreground = "#fef2b0"
-dark_foreground = "#7f7c62"
-light_foreground = "#d8cf99"
-bright_foreground = "#fef2b0"
+foreground = "#ebd081"
+dark_foreground = "#7a6c41"
+light_foreground = "#c9b26e"
+bright_foreground = "#ebd081"
 
 # Normal colors
-red = "#da8559"
-yellow = "#848715"
-orange = "#e09873"
-green = "#4a8c00"
-cyan = "#44904b"
-blue = "#779de9"
-magenta = "#7a79d1"
-brown = "#895b45"
+red = "#b7905a"
+yellow = "#fff390"
+orange = "#c2a173"
+green = "#cfc876"
+cyan = "#d3e77e"
+blue = "#679154"
+magenta = "#e39c60"
+brown = "#766245"
 
 # Bright colors
-bright_red = "#ffa86f"
-bright_yellow = "#a8af00"
-bright_green = "#66b500"
-bright_cyan = "#61b85c"
-bright_blue = "#9ac0ff"
-bright_magenta = "#a09aff"
+bright_red = "#d3a45e"
+bright_yellow = "#fff26f"
+bright_green = "#eadf70"
+bright_cyan = "#e9ff7b"
+bright_blue = "#76a85f"
+bright_magenta = "#ffac5d"

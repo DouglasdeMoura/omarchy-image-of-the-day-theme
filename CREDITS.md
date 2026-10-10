@@ -46,6 +46,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -84,3 +85,4 @@ the copyright, and images are removed on request.
 | 2026-10-07 | Puzzled? Follow the trail | [Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://www.bing.com/search?q=Puzzlewood+England&form=hpcapt&filters=HpDate%3a%2220261007_0700%22) |
 | 2026-10-08 | Now you 'sea' me... | [Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/search?q=World+Octopus+Day&form=hpcapt&filters=HpDate%3a%2220261008_0700%22) |
 | 2026-10-09 | Corsica's rocky outposts | [View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=Sanguinaires+Islands+Corsica&form=hpcapt&filters=HpDate%3a%2220261009_0700%22) |
+| 2026-10-10 | Life along the flyway | [Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22) |
