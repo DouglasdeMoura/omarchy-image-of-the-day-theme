@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-10 — Life along the flyway
+# image-of-the-day — 2026-10-11 — Where autumn turns the wheel
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)
+# Image: Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
 
 mode = "dark"
 
-accent = "#679154"
-selection = "#21211a"
-muted = "#61615a"
+accent = "#b9705c"
+selection = "#282825"
+muted = "#6d6d65"
 
 # Backgrounds
-background = "#080801"
-dark_background = "#060601"
-darker_background = "#040401"
-lighter_background = "#21211a"
+background = "#10100d"
+dark_background = "#0c0c0a"
+darker_background = "#090907"
+lighter_background = "#282825"
 
 # Foregrounds
-foreground = "#ebd081"
-dark_foreground = "#7a6c41"
-light_foreground = "#c9b26e"
-bright_foreground = "#ebd081"
+foreground = "#ddd3d9"
+dark_foreground = "#767273"
+light_foreground = "#beb6ba"
+bright_foreground = "#ddd3d9"
 
 # Normal colors
-red = "#b7905a"
-yellow = "#fff390"
-orange = "#c2a173"
-green = "#cfc876"
-cyan = "#d3e77e"
-blue = "#679154"
-magenta = "#e39c60"
-brown = "#766245"
+red = "#bf915e"
+yellow = "#fff28e"
+orange = "#c9a277"
+green = "#dcc873"
+cyan = "#e4e675"
+blue = "#b9705c"
+magenta = "#ec9b6a"
+brown = "#7b6247"
 
 # Bright colors
-bright_red = "#d3a45e"
-bright_yellow = "#fff26f"
-bright_green = "#eadf70"
-bright_cyan = "#e9ff7b"
-bright_blue = "#76a85f"
-bright_magenta = "#ffac5d"
+bright_red = "#dea362"
+bright_yellow = "#ffec67"
+bright_green = "#f9dd6b"
+bright_cyan = "#f9fb69"
+bright_blue = "#d87f66"
+bright_magenta = "#ffaa69"
