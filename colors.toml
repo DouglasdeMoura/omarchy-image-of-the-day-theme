@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-11 — Where autumn turns the wheel
+# image-of-the-day — 2026-10-12 — A landscape of living history
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)
+# Image: White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)
 
-mode = "dark"
+mode = "light"
 
-accent = "#b9705c"
-selection = "#282825"
-muted = "#6d6d65"
+accent = "#85454d"
+selection = "#d5bbab"
+muted = "#77716e"
 
 # Backgrounds
-background = "#10100d"
-dark_background = "#0c0c0a"
-darker_background = "#090907"
-lighter_background = "#282825"
+background = "#fadcc9"
+dark_background = "#eed1bf"
+darker_background = "#cdb4a5"
+lighter_background = "#e6cab9"
 
 # Foregrounds
-foreground = "#ddd3d9"
-dark_foreground = "#767273"
-light_foreground = "#beb6ba"
-bright_foreground = "#ddd3d9"
+foreground = "#270a00"
+dark_foreground = "#907364"
+light_foreground = "#3c1f14"
+bright_foreground = "#270a00"
 
 # Normal colors
-red = "#bf915e"
-yellow = "#fff28e"
-orange = "#c9a277"
-green = "#dcc873"
-cyan = "#e4e675"
-blue = "#b9705c"
-magenta = "#ec9b6a"
-brown = "#7b6247"
+red = "#693823"
+yellow = "#190000"
+orange = "#805643"
+green = "#3b1700"
+cyan = "#260600"
+blue = "#85454d"
+magenta = "#5e1914"
+brown = "#4c3327"
 
 # Bright colors
-bright_red = "#dea362"
-bright_yellow = "#ffec67"
-bright_green = "#f9dd6b"
-bright_cyan = "#f9fb69"
-bright_blue = "#d87f66"
-bright_magenta = "#ffaa69"
+bright_red = "#592001"
+bright_yellow = "#300000"
+bright_green = "#2d0000"
+bright_cyan = "#270000"
+bright_blue = "#752c38"
+bright_magenta = "#500000"
