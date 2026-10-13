@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-12 — A landscape of living history
+# image-of-the-day — 2026-10-13 — A symphony in blue and green
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)
+# Image: Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
 
-mode = "light"
+mode = "dark"
 
-accent = "#85454d"
-selection = "#d5bbab"
-muted = "#77716e"
+accent = "#447ad5"
+selection = "#271c1a"
+muted = "#716b66"
 
 # Backgrounds
-background = "#fadcc9"
-dark_background = "#eed1bf"
-darker_background = "#cdb4a5"
-lighter_background = "#e6cab9"
+background = "#0f0300"
+dark_background = "#0b0200"
+darker_background = "#080200"
+lighter_background = "#271c1a"
 
 # Foregrounds
-foreground = "#270a00"
-dark_foreground = "#907364"
-light_foreground = "#3c1f14"
-bright_foreground = "#270a00"
+foreground = "#e1e3e4"
+dark_foreground = "#787372"
+light_foreground = "#c2c1c2"
+bright_foreground = "#e1e3e4"
 
 # Normal colors
-red = "#693823"
-yellow = "#190000"
-orange = "#805643"
-green = "#3b1700"
-cyan = "#260600"
-blue = "#85454d"
-magenta = "#5e1914"
-brown = "#4c3327"
+red = "#b77c00"
+yellow = "#7f8300"
+orange = "#c29027"
+green = "#5b8b00"
+cyan = "#348dda"
+blue = "#447ad5"
+magenta = "#4778db"
+brown = "#765818"
 
 # Bright colors
-bright_red = "#592001"
-bright_yellow = "#300000"
-bright_green = "#2d0000"
-bright_cyan = "#270000"
-bright_blue = "#752c38"
-bright_magenta = "#500000"
+bright_red = "#e2a200"
+bright_yellow = "#a2aa00"
+bright_green = "#79b300"
+bright_cyan = "#57b0ff"
+bright_blue = "#669bff"
+bright_magenta = "#6998ff"
