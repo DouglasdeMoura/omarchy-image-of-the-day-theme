@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-14 — Spirals through time
+# image-of-the-day — 2026-10-15 — Bridges, rooftops, and twilight
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
+# Image: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)
 
 mode = "dark"
 
-accent = "#9c7e78"
-selection = "#2c2824"
-muted = "#726d67"
+accent = "#657cda"
+selection = "#35232e"
+muted = "#746d72"
 
 # Backgrounds
-background = "#15100c"
-dark_background = "#100c09"
-darker_background = "#0c0907"
-lighter_background = "#2c2824"
+background = "#1f0a17"
+dark_background = "#170811"
+darker_background = "#11060d"
+lighter_background = "#35222e"
 
 # Foregrounds
-foreground = "#e1e4e7"
-dark_foreground = "#7b7a7a"
-light_foreground = "#c2c4c6"
-bright_foreground = "#e1e4e7"
+foreground = "#f2e972"
+dark_foreground = "#887a44"
+light_foreground = "#d2c864"
+bright_foreground = "#f2e972"
 
 # Normal colors
-red = "#ac9786"
-yellow = "#fff3d3"
-orange = "#b9a799"
-green = "#d4c7a9"
-cyan = "#e5e2b9"
-blue = "#9c7e78"
-magenta = "#cca99a"
-brown = "#71645c"
+red = "#c96554"
+yellow = "#f3ef00"
+orange = "#d17c6e"
+green = "#e0ce00"
+cyan = "#6481dd"
+blue = "#657cda"
+magenta = "#a36bb5"
+brown = "#8a5147"
 
 # Bright colors
-bright_red = "#c6ac96"
-bright_yellow = "#ffefc7"
-bright_green = "#edddb7"
-bright_cyan = "#faf5c5"
-bright_blue = "#b6918a"
-bright_magenta = "#e9bdaa"
+bright_red = "#f88670"
+bright_yellow = "#fffb01"
+bright_green = "#f3dd00"
+bright_cyan = "#87a3ff"
+bright_blue = "#889dff"
+bright_magenta = "#cd8ae7"
