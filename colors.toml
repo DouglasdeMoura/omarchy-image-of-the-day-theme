@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-15 — Bridges, rooftops, and twilight
+# image-of-the-day — 2026-10-16 — 'Peak' into Colorado
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)
+# Image: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
 
 mode = "dark"
 
-accent = "#657cda"
-selection = "#35232e"
-muted = "#746d72"
+accent = "#7996e4"
+selection = "#1a1e2f"
+muted = "#5a5f64"
 
 # Backgrounds
-background = "#1f0a17"
-dark_background = "#170811"
-darker_background = "#11060d"
-lighter_background = "#35222e"
+background = "#000518"
+dark_background = "#000412"
+darker_background = "#00030d"
+lighter_background = "#1a1e2f"
 
 # Foregrounds
-foreground = "#f2e972"
-dark_foreground = "#887a44"
-light_foreground = "#d2c864"
-bright_foreground = "#f2e972"
+foreground = "#fbe7e5"
+dark_foreground = "#7e767e"
+light_foreground = "#d5c5c6"
+bright_foreground = "#fbe7e5"
 
 # Normal colors
-red = "#c96554"
-yellow = "#f3ef00"
-orange = "#d17c6e"
-green = "#e0ce00"
-cyan = "#6481dd"
-blue = "#657cda"
-magenta = "#a36bb5"
-brown = "#8a5147"
+red = "#d3cc6a"
+yellow = "#908a00"
+orange = "#dad481"
+green = "#698935"
+cyan = "#587ecb"
+blue = "#7996e4"
+magenta = "#b6c5ff"
+brown = "#85824d"
 
 # Bright colors
-bright_red = "#f88670"
-bright_yellow = "#fffb01"
-bright_green = "#f3dd00"
-bright_cyan = "#87a3ff"
-bright_blue = "#889dff"
-bright_magenta = "#cd8ae7"
+bright_red = "#e7df00"
+bright_yellow = "#b5b100"
+bright_green = "#89b13c"
+bright_cyan = "#7aa1ff"
+bright_blue = "#9db9ff"
+bright_magenta = "#bdcdff"
