@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-16 — 'Peak' into Colorado
+# image-of-the-day — 2026-10-17 — The past, unearthed
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
+# Image: Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)
 
 mode = "dark"
 
-accent = "#7996e4"
-selection = "#1a1e2f"
-muted = "#5a5f64"
+accent = "#aa6d67"
+selection = "#1a1a1a"
+muted = "#6a6160"
 
 # Backgrounds
-background = "#000518"
-dark_background = "#000412"
-darker_background = "#00030d"
-lighter_background = "#1a1e2f"
+background = "#010000"
+dark_background = "#010000"
+darker_background = "#010000"
+lighter_background = "#1a1a1a"
 
 # Foregrounds
-foreground = "#fbe7e5"
-dark_foreground = "#7e767e"
-light_foreground = "#d5c5c6"
-bright_foreground = "#fbe7e5"
+foreground = "#f8ecd3"
+dark_foreground = "#7c766a"
+light_foreground = "#d3c9b3"
+bright_foreground = "#f8ecd3"
 
 # Normal colors
-red = "#d3cc6a"
-yellow = "#908a00"
-orange = "#dad481"
-green = "#698935"
-cyan = "#587ecb"
-blue = "#7996e4"
-magenta = "#b6c5ff"
-brown = "#85824d"
+red = "#b78b6a"
+yellow = "#ffe8a2"
+orange = "#c29d81"
+green = "#dabe81"
+cyan = "#e9da83"
+blue = "#aa6d67"
+magenta = "#de987d"
+brown = "#765e4e"
 
 # Bright colors
-bright_red = "#e7df00"
-bright_yellow = "#b5b100"
-bright_green = "#89b13c"
-bright_cyan = "#7aa1ff"
-bright_blue = "#9db9ff"
-bright_magenta = "#bdcdff"
+bright_red = "#d49e74"
+bright_yellow = "#ffe98f"
+bright_green = "#f7d382"
+bright_cyan = "#fff184"
+bright_blue = "#c77e77"
+bright_magenta = "#ffa886"
