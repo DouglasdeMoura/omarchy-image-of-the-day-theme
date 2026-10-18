@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-17 — The past, unearthed
+# image-of-the-day — 2026-10-18 — 75 and thriving
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)
+# Image: Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)
 
 mode = "dark"
 
-accent = "#aa6d67"
-selection = "#1a1a1a"
-muted = "#6a6160"
+accent = "#a6c3ff"
+selection = "#1f201a"
+muted = "#6c6d66"
 
 # Backgrounds
-background = "#010000"
-dark_background = "#010000"
-darker_background = "#010000"
-lighter_background = "#1a1a1a"
+background = "#060700"
+dark_background = "#040500"
+darker_background = "#030400"
+lighter_background = "#1f201a"
 
 # Foregrounds
-foreground = "#f8ecd3"
-dark_foreground = "#7c766a"
-light_foreground = "#d3c9b3"
-bright_foreground = "#f8ecd3"
+foreground = "#f7efef"
+dark_foreground = "#7e7b78"
+light_foreground = "#d3cccb"
+bright_foreground = "#f7efef"
 
 # Normal colors
-red = "#b78b6a"
-yellow = "#ffe8a2"
-orange = "#c29d81"
-green = "#dabe81"
-cyan = "#e9da83"
-blue = "#aa6d67"
-magenta = "#de987d"
-brown = "#765e4e"
+red = "#b6694a"
+yellow = "#7b8301"
+orange = "#c08167"
+green = "#6e852d"
+cyan = "#83abf6"
+blue = "#a6c3ff"
+magenta = "#7873bf"
+brown = "#7c5340"
 
 # Bright colors
-bright_red = "#d49e74"
-bright_yellow = "#ffe98f"
-bright_green = "#f7d382"
-bright_cyan = "#fff184"
-bright_blue = "#c77e77"
-bright_magenta = "#ffa886"
+bright_red = "#e08c64"
+bright_yellow = "#9daa00"
+bright_green = "#8fac30"
+bright_cyan = "#a3ccff"
+bright_blue = "#a8ccff"
+bright_magenta = "#9e95f3"
