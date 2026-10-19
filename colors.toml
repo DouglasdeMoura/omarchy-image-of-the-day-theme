@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-18 — 75 and thriving
+# image-of-the-day — 2026-10-19 — The road that runs on water
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)
+# Image: Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
 
 mode = "dark"
 
-accent = "#a6c3ff"
-selection = "#1f201a"
-muted = "#6c6d66"
+accent = "#ad6e7c"
+selection = "#282527"
+muted = "#6e676c"
 
 # Backgrounds
-background = "#060700"
-dark_background = "#040500"
-darker_background = "#030400"
-lighter_background = "#1f201a"
+background = "#100d0f"
+dark_background = "#0c0a0b"
+darker_background = "#090708"
+lighter_background = "#282527"
 
 # Foregrounds
-foreground = "#f7efef"
-dark_foreground = "#7e7b78"
-light_foreground = "#d3cccb"
-bright_foreground = "#f7efef"
+foreground = "#f0b284"
+dark_foreground = "#80604a"
+light_foreground = "#ce9972"
+bright_foreground = "#f0b284"
 
 # Normal colors
-red = "#b6694a"
-yellow = "#7b8301"
-orange = "#c08167"
-green = "#6e852d"
-cyan = "#83abf6"
-blue = "#a6c3ff"
-magenta = "#7873bf"
-brown = "#7c5340"
+red = "#c18978"
+yellow = "#ffe2ad"
+orange = "#cb9b8d"
+green = "#eeba87"
+cyan = "#ffd382"
+blue = "#ad6e7c"
+magenta = "#e69695"
+brown = "#7c5d55"
 
 # Bright colors
-bright_red = "#e08c64"
-bright_yellow = "#9daa00"
-bright_green = "#8fac30"
-bright_cyan = "#a3ccff"
-bright_blue = "#a8ccff"
-bright_magenta = "#9e95f3"
+bright_red = "#e09a86"
+bright_yellow = "#ffdd9a"
+bright_green = "#ffcb89"
+bright_cyan = "#ffe77f"
+bright_blue = "#cb7e8f"
+bright_magenta = "#ffa5a4"
