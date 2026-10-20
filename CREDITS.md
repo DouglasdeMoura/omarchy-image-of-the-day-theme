@@ -56,6 +56,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -104,3 +105,4 @@ the copyright, and images are removed on request.
 | 2026-10-17 | The past, unearthed | [Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)](https://www.bing.com/search?q=International+Archaeology+Day&form=hpcapt&filters=HpDate%3a%2220261017_0700%22) |
 | 2026-10-18 | 75 and thriving | [Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)](https://www.bing.com/search?q=Eryri+National+Park+Wales&form=hpcapt&filters=HpDate%3a%2220261018_0700%22) |
 | 2026-10-19 | The road that runs on water | [Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://www.bing.com/search?q=Grand+Canal+Venice&form=hpcapt&filters=HpDate%3a%2220261019_0700%22) |
+| 2026-10-20 | Life in the slow lane | [Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/search?q=International+Sloth+Day&form=hpcapt&filters=HpDate%3a%2220261020_0700%22) |

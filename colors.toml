@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-19 — The road that runs on water
+# image-of-the-day — 2026-10-20 — Life in the slow lane
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
+# Image: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
 
-mode = "dark"
+mode = "light"
 
-accent = "#ad6e7c"
-selection = "#282527"
-muted = "#6e676c"
+accent = "#2a764f"
+selection = "#cbd3be"
+muted = "#81847c"
 
 # Backgrounds
-background = "#100d0f"
-dark_background = "#0c0a0b"
-darker_background = "#090708"
-lighter_background = "#282527"
+background = "#eff8e0"
+dark_background = "#e3ecd5"
+darker_background = "#c4cbb8"
+lighter_background = "#dce4ce"
 
 # Foregrounds
-foreground = "#f0b284"
-dark_foreground = "#80604a"
-light_foreground = "#ce9972"
-bright_foreground = "#f0b284"
+foreground = "#1a1a05"
+dark_foreground = "#848972"
+light_foreground = "#2f301b"
+bright_foreground = "#1a1a05"
 
 # Normal colors
-red = "#c18978"
-yellow = "#ffe2ad"
-orange = "#cb9b8d"
-green = "#eeba87"
-cyan = "#ffd382"
-blue = "#ad6e7c"
-magenta = "#e69695"
-brown = "#7c5d55"
+red = "#5e5006"
+yellow = "#070b00"
+orange = "#766b2a"
+green = "#1f3200"
+cyan = "#002500"
+blue = "#2a764f"
+magenta = "#5b3400"
+brown = "#453f19"
 
 # Bright colors
-bright_red = "#e09a86"
-bright_yellow = "#ffdd9a"
-bright_green = "#ffcb89"
-bright_cyan = "#ffe77f"
-bright_blue = "#cb7e8f"
-bright_magenta = "#ffa5a4"
+bright_red = "#4d3c00"
+bright_yellow = "#0b1000"
+bright_green = "#0c2100"
+bright_cyan = "#001800"
+bright_blue = "#006337"
+bright_magenta = "#4e1c00"
