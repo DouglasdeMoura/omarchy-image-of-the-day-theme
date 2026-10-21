@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-20 — Life in the slow lane
+# image-of-the-day — 2026-10-21 — Winging it over the river
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
+# Image: Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)
 
-mode = "light"
+mode = "dark"
 
-accent = "#2a764f"
-selection = "#cbd3be"
-muted = "#81847c"
+accent = "#7082ce"
+selection = "#1b2737"
+muted = "#666b71"
 
 # Backgrounds
-background = "#eff8e0"
-dark_background = "#e3ecd5"
-darker_background = "#c4cbb8"
-lighter_background = "#dce4ce"
+background = "#020f21"
+dark_background = "#020b19"
+darker_background = "#010812"
+lighter_background = "#1b2737"
 
 # Foregrounds
-foreground = "#1a1a05"
-dark_foreground = "#848972"
-light_foreground = "#2f301b"
-bright_foreground = "#1a1a05"
+foreground = "#fae7a3"
+dark_foreground = "#7e7b62"
+light_foreground = "#d5c790"
+bright_foreground = "#fae7a3"
 
 # Normal colors
-red = "#5e5006"
-yellow = "#070b00"
-orange = "#766b2a"
-green = "#1f3200"
-cyan = "#002500"
-blue = "#2a764f"
-magenta = "#5b3400"
-brown = "#453f19"
+red = "#e69180"
+yellow = "#ffb203"
+orange = "#eaa294"
+green = "#ffd286"
+cyan = "#6783ca"
+blue = "#7082ce"
+magenta = "#c587c1"
+brown = "#8f6158"
 
 # Bright colors
-bright_red = "#4d3c00"
-bright_yellow = "#0b1000"
-bright_green = "#0c2100"
-bright_cyan = "#001800"
-bright_blue = "#006337"
-bright_magenta = "#4e1c00"
+bright_red = "#ffb29d"
+bright_yellow = "#ffb805"
+bright_green = "#ffdc55"
+bright_cyan = "#8aa6ff"
+bright_blue = "#94a4ff"
+bright_magenta = "#f0a8f1"
