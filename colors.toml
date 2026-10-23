@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-22 — Still waters, vivid colors
+# image-of-the-day — 2026-10-23 — Partners in the wild
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)
+# Image: Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)
 
-mode = "dark"
+mode = "light"
 
-accent = "#b96c6f"
-selection = "#2e2522"
-muted = "#726b67"
+accent = "#755953"
+selection = "#cac9c9"
+muted = "#807b77"
 
 # Backgrounds
-background = "#170d09"
-dark_background = "#110a07"
-darker_background = "#0d0705"
-lighter_background = "#2e2522"
+background = "#eeedec"
+dark_background = "#e2e1e0"
+darker_background = "#c3c2c2"
+lighter_background = "#dbdad9"
 
 # Foregrounds
-foreground = "#fefdfc"
-dark_foreground = "#8a8582"
-light_foreground = "#dbd9d8"
-bright_foreground = "#fefdfc"
+foreground = "#040202"
+dark_foreground = "#797877"
+light_foreground = "#1b1a19"
+bright_foreground = "#040202"
 
 # Normal colors
-red = "#c78b6a"
-yellow = "#ffe795"
-orange = "#d09d81"
-green = "#efbf76"
-cyan = "#ffdb6b"
-blue = "#b96c6f"
-magenta = "#f19682"
-brown = "#7f5e4d"
+red = "#5b4939"
+yellow = "#0e0400"
+orange = "#736356"
+green = "#2e260d"
+cyan = "#171500"
+blue = "#755953"
+magenta = "#4e3224"
+brown = "#443a33"
 
 # Bright colors
-bright_red = "#e89c72"
-bright_yellow = "#ffdf72"
-bright_green = "#ffd26d"
-bright_cyan = "#ffee59"
-bright_blue = "#d97c80"
-bright_magenta = "#ffa389"
+bright_red = "#4a3522"
+bright_yellow = "#190b00"
+bright_green = "#1d1400"
+bright_cyan = "#110e00"
+bright_blue = "#65443d"
+bright_magenta = "#3e1e0c"
