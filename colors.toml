@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-23 — Partners in the wild
+# image-of-the-day — 2026-10-24 — Bookishly extravagant
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)
+# Image: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)
 
-mode = "light"
+mode = "dark"
 
-accent = "#755953"
-selection = "#cac9c9"
-muted = "#807b77"
+accent = "#5277df"
+selection = "#212128"
+muted = "#616169"
 
 # Backgrounds
-background = "#eeedec"
-dark_background = "#e2e1e0"
-darker_background = "#c3c2c2"
-lighter_background = "#dbdad9"
+background = "#080810"
+dark_background = "#06060c"
+darker_background = "#040409"
+lighter_background = "#212128"
 
 # Foregrounds
-foreground = "#040202"
-dark_foreground = "#797877"
-light_foreground = "#1b1a19"
-bright_foreground = "#040202"
+foreground = "#fefefb"
+dark_foreground = "#838386"
+light_foreground = "#d9d9d8"
+bright_foreground = "#fefefb"
 
 # Normal colors
-red = "#5b4939"
-yellow = "#0e0400"
-orange = "#736356"
-green = "#2e260d"
-cyan = "#171500"
-blue = "#755953"
-magenta = "#4e3224"
-brown = "#443a33"
+red = "#df6b3b"
+yellow = "#e1b905"
+orange = "#e48259"
+green = "#a47700"
+cyan = "#4978de"
+blue = "#5277df"
+magenta = "#848cf5"
+brown = "#8c4e34"
 
 # Bright colors
-bright_red = "#4a3522"
-bright_yellow = "#190b00"
-bright_green = "#1d1400"
-bright_cyan = "#110e00"
-bright_blue = "#65443d"
-bright_magenta = "#3e1e0c"
+bright_red = "#ff8d4e"
+bright_yellow = "#f8c500"
+bright_green = "#cd9c00"
+bright_cyan = "#6b99ff"
+bright_blue = "#7498ff"
+bright_magenta = "#a9adff"
