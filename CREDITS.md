@@ -61,6 +61,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -114,3 +115,4 @@ the copyright, and images are removed on request.
 | 2026-10-22 | Still waters, vivid colors | [Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)](https://www.bing.com/search?q=Naejangsan+National+Park&form=hpcapt&filters=HpDate%3a%2220261022_0700%22) |
 | 2026-10-23 | Partners in the wild | [Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://www.bing.com/search?q=Wolf+Awareness+Week&form=hpcapt&filters=HpDate%3a%2220261023_0700%22) |
 | 2026-10-24 | Bookishly extravagant | [Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://www.bing.com/search?q=Royal+Portuguese+Cabinet+of+Reading&form=hpcapt&filters=HpDate%3a%2220261024_0700%22) |
+| 2026-10-25 | Nature's autumn soundtrack | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22) |

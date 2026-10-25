@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-24 — Bookishly extravagant
+# image-of-the-day — 2026-10-25 — Nature's autumn soundtrack
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)
+# Image: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)
 
 mode = "dark"
 
-accent = "#5277df"
-selection = "#212128"
-muted = "#616169"
+accent = "#b56c5a"
+selection = "#25221f"
+muted = "#68645e"
 
 # Backgrounds
-background = "#080810"
-dark_background = "#06060c"
-darker_background = "#040409"
-lighter_background = "#212128"
+background = "#0d0906"
+dark_background = "#0a0704"
+darker_background = "#070503"
+lighter_background = "#25221f"
 
 # Foregrounds
-foreground = "#fefefb"
-dark_foreground = "#838386"
-light_foreground = "#d9d9d8"
-bright_foreground = "#fefefb"
+foreground = "#e3e0c4"
+dark_foreground = "#787465"
+light_foreground = "#c3c0a8"
+bright_foreground = "#e3e0c4"
 
 # Normal colors
-red = "#df6b3b"
-yellow = "#e1b905"
-orange = "#e48259"
-green = "#a47700"
-cyan = "#4978de"
-blue = "#5277df"
-magenta = "#848cf5"
-brown = "#8c4e34"
+red = "#bc8e5c"
+yellow = "#ffee8b"
+orange = "#c69f75"
+green = "#dac470"
+cyan = "#e2e371"
+blue = "#b56c5a"
+magenta = "#e99867"
+brown = "#796146"
 
 # Bright colors
-bright_red = "#ff8d4e"
-bright_yellow = "#f8c500"
-bright_green = "#cd9c00"
-bright_cyan = "#6b99ff"
-bright_blue = "#7498ff"
-bright_magenta = "#a9adff"
+bright_red = "#db9f60"
+bright_yellow = "#ffec67"
+bright_green = "#f6d968"
+bright_cyan = "#fafa67"
+bright_blue = "#d57c65"
+bright_magenta = "#ffa667"
