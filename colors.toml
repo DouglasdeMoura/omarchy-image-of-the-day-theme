@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-25 — Nature's autumn soundtrack
+# image-of-the-day — 2026-10-26 — Hanging in there
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)
+# Image: Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)
 
 mode = "dark"
 
-accent = "#b56c5a"
-selection = "#25221f"
-muted = "#68645e"
+accent = "#5f8c70"
+selection = "#1c1c1d"
+muted = "#64646b"
 
 # Backgrounds
-background = "#0d0906"
-dark_background = "#0a0704"
-darker_background = "#070503"
-lighter_background = "#25221f"
+background = "#030304"
+dark_background = "#020203"
+darker_background = "#020202"
+lighter_background = "#1c1c1d"
 
 # Foregrounds
-foreground = "#e3e0c4"
-dark_foreground = "#787465"
-light_foreground = "#c3c0a8"
-bright_foreground = "#e3e0c4"
+foreground = "#f4e9ec"
+dark_foreground = "#7c7678"
+light_foreground = "#d0c6c9"
+bright_foreground = "#f4e9ec"
 
 # Normal colors
-red = "#bc8e5c"
-yellow = "#ffee8b"
-orange = "#c69f75"
-green = "#dac470"
-cyan = "#e2e371"
-blue = "#b56c5a"
-magenta = "#e99867"
-brown = "#796146"
+red = "#9f956e"
+yellow = "#ebf7bd"
+orange = "#aea584"
+green = "#b8ca9a"
+cyan = "#bde6b1"
+blue = "#5f8c70"
+magenta = "#c4a676"
+brown = "#6a654f"
 
 # Bright colors
-bright_red = "#db9f60"
-bright_yellow = "#ffec67"
-bright_green = "#f6d968"
-bright_cyan = "#fafa67"
-bright_blue = "#d57c65"
-bright_magenta = "#ffa667"
+bright_red = "#b7ab79"
+bright_yellow = "#edfbb2"
+bright_green = "#cbe2a5"
+bright_cyan = "#ceffbf"
+bright_blue = "#6da283"
+bright_magenta = "#e0bb7b"
