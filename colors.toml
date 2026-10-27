@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-26 — Hanging in there
+# image-of-the-day — 2026-10-27 — Nature's golden mirror
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)
+# Image: A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)
 
 mode = "dark"
 
-accent = "#5f8c70"
-selection = "#1c1c1d"
-muted = "#64646b"
+accent = "#b3685c"
+selection = "#221f21"
+muted = "#645d62"
 
 # Backgrounds
-background = "#030304"
-dark_background = "#020203"
-darker_background = "#020202"
-lighter_background = "#1c1c1d"
+background = "#090608"
+dark_background = "#070406"
+darker_background = "#050304"
+lighter_background = "#221f21"
 
 # Foregrounds
-foreground = "#f4e9ec"
-dark_foreground = "#7c7678"
-light_foreground = "#d0c6c9"
-bright_foreground = "#f4e9ec"
+foreground = "#ffc303"
+dark_foreground = "#846406"
+light_foreground = "#daa704"
+bright_foreground = "#ffc303"
 
 # Normal colors
-red = "#9f956e"
-yellow = "#ebf7bd"
-orange = "#aea584"
-green = "#b8ca9a"
-cyan = "#bde6b1"
-blue = "#5f8c70"
-magenta = "#c4a676"
-brown = "#6a654f"
+red = "#bc895c"
+yellow = "#ffe789"
+orange = "#c69b75"
+green = "#ddbe6c"
+cyan = "#e8dc68"
+blue = "#b3685c"
+magenta = "#e8926b"
+brown = "#795d46"
 
 # Bright colors
-bright_red = "#b7ab79"
-bright_yellow = "#edfbb2"
-bright_green = "#cbe2a5"
-bright_cyan = "#ceffbf"
-bright_blue = "#6da283"
-bright_magenta = "#e0bb7b"
+bright_red = "#db9b61"
+bright_yellow = "#ffe769"
+bright_green = "#fbd263"
+bright_cyan = "#fff25c"
+bright_blue = "#d2786a"
+bright_magenta = "#ffa06e"
