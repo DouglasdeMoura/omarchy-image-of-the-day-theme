@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-27 — Nature's golden mirror
+# image-of-the-day — 2026-10-28 — Where history stands watch
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)
+# Image: Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)
 
 mode = "dark"
 
-accent = "#b3685c"
-selection = "#221f21"
-muted = "#645d62"
+accent = "#b66a6b"
+selection = "#252222"
+muted = "#6a6262"
 
 # Backgrounds
-background = "#090608"
-dark_background = "#070406"
-darker_background = "#050304"
-lighter_background = "#221f21"
+background = "#0d0909"
+dark_background = "#0a0707"
+darker_background = "#070505"
+lighter_background = "#252222"
 
 # Foregrounds
-foreground = "#ffc303"
-dark_foreground = "#846406"
-light_foreground = "#daa704"
-bright_foreground = "#ffc303"
+foreground = "#fcd2a6"
+dark_foreground = "#846e58"
+light_foreground = "#d8b48e"
+bright_foreground = "#fcd2a6"
 
 # Normal colors
-red = "#bc895c"
-yellow = "#ffe789"
-orange = "#c69b75"
-green = "#ddbe6c"
-cyan = "#e8dc68"
-blue = "#b3685c"
-magenta = "#e8926b"
-brown = "#795d46"
+red = "#c48966"
+yellow = "#ffe491"
+orange = "#cd9b7e"
+green = "#eabc71"
+cyan = "#fad968"
+blue = "#b66a6b"
+magenta = "#ee937d"
+brown = "#7d5d4b"
 
 # Bright colors
-bright_red = "#db9b61"
-bright_yellow = "#ffe769"
-bright_green = "#fbd263"
-bright_cyan = "#fff25c"
-bright_blue = "#d2786a"
-bright_magenta = "#ffa06e"
+bright_red = "#e49a6e"
+bright_yellow = "#ffe071"
+bright_green = "#ffd069"
+bright_cyan = "#ffef58"
+bright_blue = "#d6797b"
+bright_magenta = "#ffa084"

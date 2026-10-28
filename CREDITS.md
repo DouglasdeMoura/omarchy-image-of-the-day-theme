@@ -64,6 +64,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -120,3 +121,4 @@ the copyright, and images are removed on request.
 | 2026-10-25 | Nature's autumn soundtrack | [Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)](https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22) |
 | 2026-10-26 | Hanging in there | [Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/search?q=Bat+Week&form=hpcapt&filters=HpDate%3a%2220261026_0700%22) |
 | 2026-10-27 | Nature's golden mirror | [A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://www.bing.com/search?q=pond+cypress&form=hpcapt&filters=HpDate%3a%2220261027_0700%22) |
+| 2026-10-28 | Where history stands watch | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://www.bing.com/search?q=Kun%C4%9Btick%C3%A1+hora+Castle&form=hpcapt&filters=HpDate%3a%2220261028_0700%22) |
