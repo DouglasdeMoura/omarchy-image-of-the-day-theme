@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-28 — Where history stands watch
+# image-of-the-day — 2026-10-29 — Where mist meets millennia
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)
+# Image: Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)
 
 mode = "dark"
 
-accent = "#b66a6b"
-selection = "#252222"
-muted = "#6a6262"
+accent = "#6f925b"
+selection = "#2b261d"
+muted = "#6d6b64"
 
 # Backgrounds
-background = "#0d0909"
-dark_background = "#0a0707"
-darker_background = "#070505"
-lighter_background = "#252222"
+background = "#130e04"
+dark_background = "#0e0a03"
+darker_background = "#0a0802"
+lighter_background = "#2b261d"
 
 # Foregrounds
-foreground = "#fcd2a6"
-dark_foreground = "#846e58"
-light_foreground = "#d8b48e"
-bright_foreground = "#fcd2a6"
+foreground = "#fcdca7"
+dark_foreground = "#887556"
+light_foreground = "#d9bd8f"
+bright_foreground = "#fcdca7"
 
 # Normal colors
-red = "#c48966"
-yellow = "#ffe491"
-orange = "#cd9b7e"
-green = "#eabc71"
-cyan = "#fad968"
-blue = "#b66a6b"
-magenta = "#ee937d"
-brown = "#7d5d4b"
+red = "#b89465"
+yellow = "#fff6a0"
+orange = "#c3a47d"
+green = "#d3cb83"
+cyan = "#d9e98c"
+blue = "#6f925b"
+magenta = "#e2a26f"
+brown = "#77644b"
 
 # Bright colors
-bright_red = "#e49a6e"
-bright_yellow = "#ffe071"
-bright_green = "#ffd069"
-bright_cyan = "#ffef58"
-bright_blue = "#d6797b"
-bright_magenta = "#ffa084"
+bright_red = "#d4a86c"
+bright_yellow = "#fff283"
+bright_green = "#ede181"
+bright_cyan = "#edff8b"
+bright_blue = "#7fa967"
+bright_magenta = "#ffb271"
