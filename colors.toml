@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-29 — Where mist meets millennia
+# image-of-the-day — 2026-10-30 — Time to fly high
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)
+# Image: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)
 
 mode = "dark"
 
-accent = "#6f925b"
-selection = "#2b261d"
-muted = "#6d6b64"
+accent = "#b3685d"
+selection = "#2d1a1a"
+muted = "#665e5c"
 
 # Backgrounds
-background = "#130e04"
-dark_background = "#0e0a03"
-darker_background = "#0a0802"
-lighter_background = "#2b261d"
+background = "#160100"
+dark_background = "#100100"
+darker_background = "#0c0100"
+lighter_background = "#2d1a1a"
 
 # Foregrounds
-foreground = "#fcdca7"
-dark_foreground = "#887556"
-light_foreground = "#d9bd8f"
-bright_foreground = "#fcdca7"
+foreground = "#fbebcb"
+dark_foreground = "#887666"
+light_foreground = "#d9c8ad"
+bright_foreground = "#fbebcb"
 
 # Normal colors
-red = "#b89465"
-yellow = "#fff6a0"
-orange = "#c3a47d"
-green = "#d3cb83"
-cyan = "#d9e98c"
-blue = "#6f925b"
-magenta = "#e2a26f"
-brown = "#77644b"
+red = "#bc895c"
+yellow = "#ffe789"
+orange = "#c69b75"
+green = "#ddbe6c"
+cyan = "#e8dc68"
+blue = "#b3685d"
+magenta = "#e8926c"
+brown = "#795d46"
 
 # Bright colors
-bright_red = "#d4a86c"
-bright_yellow = "#fff283"
-bright_green = "#ede181"
-bright_cyan = "#edff8b"
-bright_blue = "#7fa967"
-bright_magenta = "#ffb271"
+bright_red = "#dc9b61"
+bright_yellow = "#ffe769"
+bright_green = "#fbd263"
+bright_cyan = "#fff25c"
+bright_blue = "#d2786a"
+bright_magenta = "#ffa06e"
