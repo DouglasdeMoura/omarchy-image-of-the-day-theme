@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-30 — Time to fly high
+# image-of-the-day — 2026-10-31 — Ghosts of empires past
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)
+# Image: St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)
 
 mode = "dark"
 
-accent = "#b3685d"
-selection = "#2d1a1a"
-muted = "#665e5c"
+accent = "#82849d"
+selection = "#30292c"
+muted = "#766e72"
 
 # Backgrounds
-background = "#160100"
-dark_background = "#100100"
-darker_background = "#0c0100"
-lighter_background = "#2d1a1a"
+background = "#191114"
+dark_background = "#130d0f"
+darker_background = "#0e090b"
+lighter_background = "#30292c"
 
 # Foregrounds
-foreground = "#fbebcb"
-dark_foreground = "#887666"
-light_foreground = "#d9c8ad"
-bright_foreground = "#fbebcb"
+foreground = "#fdfdff"
+dark_foreground = "#8b878a"
+light_foreground = "#dbdadc"
+bright_foreground = "#fdfdff"
 
 # Normal colors
-red = "#bc895c"
-yellow = "#ffe789"
-orange = "#c69b75"
-green = "#ddbe6c"
-cyan = "#e8dc68"
-blue = "#b3685d"
-magenta = "#e8926c"
-brown = "#795d46"
+red = "#a396ab"
+yellow = "#dcfbff"
+orange = "#b1a6b8"
+green = "#b5cce3"
+cyan = "#cfe1ff"
+blue = "#82849d"
+magenta = "#b5accd"
+brown = "#6c6470"
 
 # Bright colors
-bright_red = "#dc9b61"
-bright_yellow = "#ffe769"
-bright_green = "#fbd263"
-bright_cyan = "#fff25c"
-bright_blue = "#d2786a"
-bright_magenta = "#ffa06e"
+bright_red = "#baaac5"
+bright_yellow = "#d2f9ff"
+bright_green = "#c6e3ff"
+bright_cyan = "#dff5ff"
+bright_blue = "#9698b8"
+bright_magenta = "#ccc2e9"
