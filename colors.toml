@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-10-31 — Ghosts of empires past
+# image-of-the-day — 2026-11-01 — Crafting continuity
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)
+# Image: Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)
 
 mode = "dark"
 
-accent = "#82849d"
-selection = "#30292c"
-muted = "#766e72"
+accent = "#b3666c"
+selection = "#261c1b"
+muted = "#726967"
 
 # Backgrounds
-background = "#191114"
-dark_background = "#130d0f"
-darker_background = "#0e090b"
-lighter_background = "#30292c"
+background = "#0e0302"
+dark_background = "#0a0202"
+darker_background = "#080201"
+lighter_background = "#261c1b"
 
 # Foregrounds
-foreground = "#fdfdff"
-dark_foreground = "#8b878a"
-light_foreground = "#dbdadc"
-bright_foreground = "#fdfdff"
+foreground = "#eae2d4"
+dark_foreground = "#7c726b"
+light_foreground = "#c9c1b4"
+bright_foreground = "#eae2d4"
 
 # Normal colors
-red = "#a396ab"
-yellow = "#dcfbff"
-orange = "#b1a6b8"
-green = "#b5cce3"
-cyan = "#cfe1ff"
-blue = "#82849d"
-magenta = "#b5accd"
-brown = "#6c6470"
+red = "#c18566"
+yellow = "#ffdf90"
+orange = "#ca987e"
+green = "#eab86f"
+cyan = "#fbd364"
+blue = "#b3666c"
+magenta = "#eb8f7d"
+brown = "#7c5b4b"
 
 # Bright colors
-bright_red = "#baaac5"
-bright_yellow = "#d2f9ff"
-bright_green = "#c6e3ff"
-bright_cyan = "#dff5ff"
-bright_blue = "#9698b8"
-bright_magenta = "#ccc2e9"
+bright_red = "#e2956e"
+bright_yellow = "#ffdd75"
+bright_green = "#ffca68"
+bright_cyan = "#ffe953"
+bright_blue = "#d2767d"
+bright_magenta = "#ff9c86"
