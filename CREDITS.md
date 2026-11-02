@@ -69,6 +69,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -130,3 +131,4 @@ the copyright, and images are removed on request.
 | 2026-10-30 | Time to fly high | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://www.bing.com/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0700%22) |
 | 2026-10-31 | Ghosts of empires past | [St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://www.bing.com/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0700%22) |
 | 2026-11-01 | Crafting continuity | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22) |
+| 2026-11-02 | A future written in ice | [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22) |
