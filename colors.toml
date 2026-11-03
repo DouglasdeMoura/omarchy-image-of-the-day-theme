@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-02 — A future written in ice
+# image-of-the-day — 2026-11-03 — Peace among the peaks
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)
+# Image: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)
 
 mode = "dark"
 
-accent = "#a07870"
-selection = "#252321"
-muted = "#6a645f"
+accent = "#8bcfdd"
+selection = "#2b1a1a"
+muted = "#726a68"
 
 # Backgrounds
-background = "#0d0a08"
-dark_background = "#0a0806"
-darker_background = "#070604"
-lighter_background = "#252221"
+background = "#130100"
+dark_background = "#0e0100"
+darker_background = "#0a0100"
+lighter_background = "#2b1a1a"
 
 # Foregrounds
-foreground = "#eaece9"
-dark_foreground = "#7c7b78"
-light_foreground = "#c9cac7"
-bright_foreground = "#eaece9"
+foreground = "#f1f1f1"
+dark_foreground = "#827978"
+light_foreground = "#d0cdcd"
+bright_foreground = "#f1f1f1"
 
 # Normal colors
-red = "#ae937b"
-yellow = "#ffefc2"
-orange = "#baa48f"
-green = "#d4c49b"
-cyan = "#e3dea7"
-blue = "#a07870"
-magenta = "#d1a38e"
-brown = "#716456"
+red = "#bb8672"
+yellow = "#9e774a"
+orange = "#c69988"
+green = "#74bec9"
+cyan = "#a1f5ff"
+blue = "#8bcfdd"
+magenta = "#a67555"
+brown = "#795c52"
 
 # Bright colors
-bright_red = "#c9a788"
-bright_yellow = "#ffeeb4"
-bright_green = "#eedaa4"
-bright_cyan = "#fbf6b1"
-bright_blue = "#bc8a80"
-bright_magenta = "#f0b59b"
+bright_red = "#e5aa90"
+bright_yellow = "#c59a61"
+bright_green = "#8ddfee"
+bright_cyan = "#78ffff"
+bright_blue = "#6de1fb"
+bright_magenta = "#ce9970"
