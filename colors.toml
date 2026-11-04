@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-03 — Peace among the peaks
+# image-of-the-day — 2026-11-04 — Paddling a painted forest
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)
+# Image: People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
 
 mode = "dark"
 
-accent = "#8bcfdd"
-selection = "#2b1a1a"
-muted = "#726a68"
+accent = "#ae6d96"
+selection = "#2c252c"
+muted = "#706a70"
 
 # Backgrounds
-background = "#130100"
-dark_background = "#0e0100"
-darker_background = "#0a0100"
-lighter_background = "#2b1a1a"
+background = "#150d15"
+dark_background = "#100a10"
+darker_background = "#0c070c"
+lighter_background = "#2c252c"
 
 # Foregrounds
-foreground = "#f1f1f1"
-dark_foreground = "#827978"
-light_foreground = "#d0cdcd"
-bright_foreground = "#f1f1f1"
+foreground = "#c4b6bb"
+dark_foreground = "#6c6268"
+light_foreground = "#aa9da2"
+bright_foreground = "#c4b6bb"
 
 # Normal colors
-red = "#bb8672"
-yellow = "#9e774a"
-orange = "#c69988"
-green = "#74bec9"
-cyan = "#a1f5ff"
-blue = "#8bcfdd"
-magenta = "#a67555"
-brown = "#795c52"
+red = "#cc868c"
+yellow = "#ffd8bf"
+orange = "#d4999e"
+green = "#ffb293"
+cyan = "#ffc2ff"
+blue = "#ae6d96"
+magenta = "#ed92b3"
+brown = "#815b5f"
 
 # Bright colors
-bright_red = "#e5aa90"
-bright_yellow = "#c59a61"
-bright_green = "#8ddfee"
-bright_cyan = "#78ffff"
-bright_blue = "#6de1fb"
-bright_magenta = "#ce9970"
+bright_red = "#ec959e"
+bright_yellow = "#ffcbad"
+bright_green = "#ffbf98"
+bright_cyan = "#ffceff"
+bright_blue = "#cb7daf"
+bright_magenta = "#ff9fc9"

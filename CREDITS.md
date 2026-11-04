@@ -71,6 +71,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -134,3 +135,4 @@ the copyright, and images are removed on request.
 | 2026-11-01 | Crafting continuity | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://www.bing.com/search?q=Native+American+Heritage+Month&form=hpcapt&filters=HpDate%3a%2220261101_0700%22) |
 | 2026-11-02 | A future written in ice | [Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22) |
 | 2026-11-03 | Peace among the peaks | [Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://www.bing.com/search?q=Lake+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261103_0800%22) |
+| 2026-11-04 | Paddling a painted forest | [People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0800%22) |
