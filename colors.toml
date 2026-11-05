@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-04 — Paddling a painted forest
+# image-of-the-day — 2026-11-05 — One step closer to the summit
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
+# Image: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
 
 mode = "dark"
 
-accent = "#ae6d96"
-selection = "#2c252c"
-muted = "#706a70"
+accent = "#a87465"
+selection = "#23231c"
+muted = "#65655d"
 
 # Backgrounds
-background = "#150d15"
-dark_background = "#100a10"
-darker_background = "#0c070c"
-lighter_background = "#2c252c"
+background = "#0b0a03"
+dark_background = "#080802"
+darker_background = "#060602"
+lighter_background = "#23221c"
 
 # Foregrounds
-foreground = "#c4b6bb"
-dark_foreground = "#6c6268"
-light_foreground = "#aa9da2"
-bright_foreground = "#c4b6bb"
+foreground = "#ffe7c8"
+dark_foreground = "#857866"
+light_foreground = "#dac6aa"
+bright_foreground = "#ffe7c8"
 
 # Normal colors
-red = "#cc868c"
-yellow = "#ffd8bf"
-orange = "#d4999e"
-green = "#ffb293"
-cyan = "#ffc2ff"
-blue = "#ae6d96"
-magenta = "#ed92b3"
-brown = "#815b5f"
+red = "#b3926e"
+yellow = "#fff0ae"
+orange = "#bfa384"
+green = "#d3c58c"
+cyan = "#dfe196"
+blue = "#a87465"
+magenta = "#d9a07e"
+brown = "#74634f"
 
 # Bright colors
-bright_red = "#ec959e"
-bright_yellow = "#ffcbad"
-bright_green = "#ffbf98"
-bright_cyan = "#ffceff"
-bright_blue = "#cb7daf"
-bright_magenta = "#ff9fc9"
+bright_red = "#cea579"
+bright_yellow = "#ffef9a"
+bright_green = "#eedb8f"
+bright_cyan = "#f6f99b"
+bright_blue = "#c58574"
+bright_magenta = "#fab186"
