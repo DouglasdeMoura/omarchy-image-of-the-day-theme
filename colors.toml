@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-05 — One step closer to the summit
+# image-of-the-day — 2026-11-06 — A green tunnel through Maui
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
+# Image: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)
 
 mode = "dark"
 
-accent = "#a87465"
-selection = "#23231c"
-muted = "#65655d"
+accent = "#469266"
+selection = "#1c1b1a"
+muted = "#66625b"
 
 # Backgrounds
-background = "#0b0a03"
-dark_background = "#080802"
-darker_background = "#060602"
-lighter_background = "#23221c"
+background = "#030201"
+dark_background = "#020201"
+darker_background = "#020101"
+lighter_background = "#1c1b1a"
 
 # Foregrounds
-foreground = "#ffe7c8"
-dark_foreground = "#857866"
-light_foreground = "#dac6aa"
-bright_foreground = "#ffe7c8"
+foreground = "#f4f8e2"
+dark_foreground = "#7c7d72"
+light_foreground = "#d0d3c0"
+bright_foreground = "#f4f8e2"
 
 # Normal colors
-red = "#b3926e"
-yellow = "#fff0ae"
-orange = "#bfa384"
-green = "#d3c58c"
-cyan = "#dfe196"
-blue = "#a87465"
-magenta = "#d9a07e"
-brown = "#74634f"
+red = "#a69651"
+yellow = "#eafa97"
+orange = "#b3a56c"
+green = "#b3cd7f"
+cyan = "#abee95"
+blue = "#469266"
+magenta = "#d2a24b"
+brown = "#6d6541"
 
 # Bright colors
-bright_red = "#cea579"
-bright_yellow = "#ffef9a"
-bright_green = "#eedb8f"
-bright_cyan = "#f6f99b"
-bright_blue = "#c58574"
-bright_magenta = "#fab186"
+bright_red = "#beaa55"
+bright_yellow = "#ecff7f"
+bright_green = "#c5e77e"
+bright_cyan = "#b7ff9a"
+bright_blue = "#4bac75"
+bright_magenta = "#f1b53c"
