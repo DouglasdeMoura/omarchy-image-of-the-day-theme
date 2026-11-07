@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-06 — A green tunnel through Maui
+# image-of-the-day — 2026-11-07 — The giant that came back
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)
+# Image: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)
 
 mode = "dark"
 
-accent = "#469266"
-selection = "#1c1b1a"
-muted = "#66625b"
+accent = "#b36860"
+selection = "#1a1a1a"
+muted = "#6b6366"
 
 # Backgrounds
-background = "#030201"
-dark_background = "#020201"
-darker_background = "#020101"
-lighter_background = "#1c1b1a"
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1a1a1a"
 
 # Foregrounds
-foreground = "#f4f8e2"
-dark_foreground = "#7c7d72"
-light_foreground = "#d0d3c0"
-bright_foreground = "#f4f8e2"
+foreground = "#dfe7ed"
+dark_foreground = "#707476"
+light_foreground = "#bec4c9"
+bright_foreground = "#dfe7ed"
 
 # Normal colors
-red = "#a69651"
-yellow = "#eafa97"
-orange = "#b3a56c"
-green = "#b3cd7f"
-cyan = "#abee95"
-blue = "#469266"
-magenta = "#d2a24b"
-brown = "#6d6541"
+red = "#be885e"
+yellow = "#ffe58a"
+orange = "#c89a77"
+green = "#e0bd6c"
+cyan = "#edda67"
+blue = "#b36860"
+magenta = "#e9916f"
+brown = "#7a5d47"
 
 # Bright colors
-bright_red = "#beaa55"
-bright_yellow = "#ecff7f"
-bright_green = "#c5e77e"
-bright_cyan = "#b7ff9a"
-bright_blue = "#4bac75"
-bright_magenta = "#f1b53c"
+bright_red = "#dd9964"
+bright_yellow = "#ffe56b"
+bright_green = "#ffd163"
+bright_cyan = "#fff059"
+bright_blue = "#d3776e"
+bright_magenta = "#ffa074"
