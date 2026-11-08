@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-07 — The giant that came back
+# image-of-the-day — 2026-11-08 — A celebration that shines
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)
+# Image: Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)
 
 mode = "dark"
 
-accent = "#b36860"
-selection = "#1a1a1a"
-muted = "#6b6366"
+accent = "#b96c76"
+selection = "#352421"
+muted = "#756d6b"
 
 # Backgrounds
-background = "#000000"
-dark_background = "#000000"
-darker_background = "#000000"
-lighter_background = "#1a1a1a"
+background = "#1f0c08"
+dark_background = "#170906"
+darker_background = "#110704"
+lighter_background = "#352421"
 
 # Foregrounds
-foreground = "#dfe7ed"
-dark_foreground = "#707476"
-light_foreground = "#bec4c9"
-bright_foreground = "#dfe7ed"
+foreground = "#fcefbb"
+dark_foreground = "#8e7e62"
+light_foreground = "#dbcda0"
+bright_foreground = "#fcefbb"
 
 # Normal colors
-red = "#be885e"
-yellow = "#ffe58a"
-orange = "#c89a77"
-green = "#e0bd6c"
-cyan = "#edda67"
-blue = "#b36860"
-magenta = "#e9916f"
-brown = "#7a5d47"
+red = "#c98a6f"
+yellow = "#ffe39a"
+orange = "#d19c85"
+green = "#f3bc78"
+cyan = "#ffd76b"
+blue = "#b96c76"
+magenta = "#f2948a"
+brown = "#805e4f"
 
 # Bright colors
-bright_red = "#dd9964"
-bright_yellow = "#ffe56b"
-bright_green = "#ffd163"
-bright_cyan = "#fff059"
-bright_blue = "#d3776e"
-bright_magenta = "#ffa074"
+bright_red = "#ea9a79"
+bright_yellow = "#ffda7a"
+bright_green = "#ffce72"
+bright_cyan = "#ffe959"
+bright_blue = "#d87b89"
+bright_magenta = "#ffa295"
