@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-09 — Where art finds its rhythm
+# image-of-the-day — 2026-11-10 — Licensed to chill
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)
+# Image: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)
 
 mode = "dark"
 
-accent = "#82a0e9"
-selection = "#1a1d2f"
-muted = "#676b71"
+accent = "#7eb0db"
+selection = "#1e201a"
+muted = "#6b6d66"
 
 # Backgrounds
-background = "#000418"
-dark_background = "#000312"
-darker_background = "#00020d"
-lighter_background = "#1a1d2f"
+background = "#050700"
+dark_background = "#040500"
+darker_background = "#030400"
+lighter_background = "#1e201a"
 
 # Foregrounds
-foreground = "#fdf1ba"
-dark_foreground = "#7e7a69"
-light_foreground = "#d7cda2"
-bright_foreground = "#fdf1ba"
+foreground = "#eee4d6"
+dark_foreground = "#7a766b"
+light_foreground = "#cbc3b6"
+bright_foreground = "#eee4d6"
 
 # Normal colors
-red = "#ba6f2c"
-yellow = "#ffe702"
-orange = "#c2864f"
-green = "#f1d06f"
-cyan = "#577bd5"
-blue = "#82a0e9"
-magenta = "#b073b3"
-brown = "#7b5430"
+red = "#9b8f4f"
+yellow = "#7e8318"
+orange = "#a99f6b"
+green = "#778646"
+cyan = "#229d9c"
+blue = "#7eb0db"
+magenta = "#4e8fbc"
+brown = "#676140"
 
 # Bright colors
-bright_red = "#e4923b"
-bright_yellow = "#ffef05"
-bright_green = "#ffdc05"
-bright_cyan = "#799dff"
-bright_blue = "#a6c3ff"
-bright_magenta = "#da93e3"
+bright_red = "#bfb461"
+bright_yellow = "#a2ab00"
+bright_green = "#98ac57"
+bright_cyan = "#46c2c0"
+bright_blue = "#9ed4ff"
+bright_magenta = "#6eb4ee"
