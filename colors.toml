@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-08 — A celebration that shines
+# image-of-the-day — 2026-11-09 — Where art finds its rhythm
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)
+# Image: Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)
 
 mode = "dark"
 
-accent = "#b96c76"
-selection = "#352421"
-muted = "#756d6b"
+accent = "#82a0e9"
+selection = "#1a1d2f"
+muted = "#676b71"
 
 # Backgrounds
-background = "#1f0c08"
-dark_background = "#170906"
-darker_background = "#110704"
-lighter_background = "#352421"
+background = "#000418"
+dark_background = "#000312"
+darker_background = "#00020d"
+lighter_background = "#1a1d2f"
 
 # Foregrounds
-foreground = "#fcefbb"
-dark_foreground = "#8e7e62"
-light_foreground = "#dbcda0"
-bright_foreground = "#fcefbb"
+foreground = "#fdf1ba"
+dark_foreground = "#7e7a69"
+light_foreground = "#d7cda2"
+bright_foreground = "#fdf1ba"
 
 # Normal colors
-red = "#c98a6f"
-yellow = "#ffe39a"
-orange = "#d19c85"
-green = "#f3bc78"
-cyan = "#ffd76b"
-blue = "#b96c76"
-magenta = "#f2948a"
-brown = "#805e4f"
+red = "#ba6f2c"
+yellow = "#ffe702"
+orange = "#c2864f"
+green = "#f1d06f"
+cyan = "#577bd5"
+blue = "#82a0e9"
+magenta = "#b073b3"
+brown = "#7b5430"
 
 # Bright colors
-bright_red = "#ea9a79"
-bright_yellow = "#ffda7a"
-bright_green = "#ffce72"
-bright_cyan = "#ffe959"
-bright_blue = "#d87b89"
-bright_magenta = "#ffa295"
+bright_red = "#e4923b"
+bright_yellow = "#ffef05"
+bright_green = "#ffdc05"
+bright_cyan = "#799dff"
+bright_blue = "#a6c3ff"
+bright_magenta = "#da93e3"
