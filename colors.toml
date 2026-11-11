@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-10 — Licensed to chill
+# image-of-the-day — 2026-11-11 — A salute in red, white, and blue
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)
+# Image: American flags in a public park in upstate New York (© Matt Champlin/Getty Images)
 
 mode = "dark"
 
-accent = "#7eb0db"
-selection = "#1e201a"
-muted = "#6b6d66"
+accent = "#b66b62"
+selection = "#23221f"
+muted = "#66635c"
 
 # Backgrounds
-background = "#050700"
-dark_background = "#040500"
-darker_background = "#030400"
-lighter_background = "#1e201a"
+background = "#0b0906"
+dark_background = "#080704"
+darker_background = "#060503"
+lighter_background = "#23221f"
 
 # Foregrounds
-foreground = "#eee4d6"
-dark_foreground = "#7a766b"
-light_foreground = "#cbc3b6"
-bright_foreground = "#eee4d6"
+foreground = "#fbfbfb"
+dark_foreground = "#838280"
+light_foreground = "#d7d7d6"
+bright_foreground = "#fbfbfb"
 
 # Normal colors
-red = "#9b8f4f"
-yellow = "#7e8318"
-orange = "#a99f6b"
-green = "#778646"
-cyan = "#229d9c"
-blue = "#7eb0db"
-magenta = "#4e8fbc"
-brown = "#676140"
+red = "#c08b60"
+yellow = "#ffe98d"
+orange = "#ca9d78"
+green = "#e3c06f"
+cyan = "#efde6b"
+blue = "#b66b62"
+magenta = "#ec9571"
+brown = "#7c5e48"
 
 # Bright colors
-bright_red = "#bfb461"
-bright_yellow = "#a2ab00"
-bright_green = "#98ac57"
-bright_cyan = "#46c2c0"
-bright_blue = "#9ed4ff"
-bright_magenta = "#6eb4ee"
+bright_red = "#e09d66"
+bright_yellow = "#ffe66a"
+bright_green = "#ffd467"
+bright_cyan = "#fff45e"
+bright_blue = "#d67a70"
+bright_magenta = "#ffa275"

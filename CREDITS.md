@@ -78,6 +78,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -148,3 +149,4 @@ the copyright, and images are removed on request.
 | 2026-11-08 | A celebration that shines | [Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](https://www.bing.com/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220261108_0800%22) |
 | 2026-11-09 | Where art finds its rhythm | [Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://www.bing.com/search?q=Seville+Spain&form=hpcapt&filters=HpDate%3a%2220261109_0800%22) |
 | 2026-11-10 | Licensed to chill | [Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=Rose+Island+Bahamas&form=hpcapt&filters=HpDate%3a%2220261110_0800%22) |
+| 2026-11-11 | A salute in red, white, and blue | [American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://www.bing.com/search?q=Veterans+Day&form=hpcapt&filters=HpDate%3a%2220261111_0800%22) |
