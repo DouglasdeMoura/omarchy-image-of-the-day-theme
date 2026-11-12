@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-11 — A salute in red, white, and blue
+# image-of-the-day — 2026-11-12 — Architecture without an architect
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: American flags in a public park in upstate New York (© Matt Champlin/Getty Images)
+# Image: North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)
 
 mode = "dark"
 
-accent = "#b66b62"
-selection = "#23221f"
-muted = "#66635c"
+accent = "#99beff"
+selection = "#2c1a1a"
+muted = "#726968"
 
 # Backgrounds
-background = "#0b0906"
-dark_background = "#080704"
-darker_background = "#060503"
-lighter_background = "#23221f"
+background = "#140000"
+dark_background = "#0f0000"
+darker_background = "#0b0000"
+lighter_background = "#2c1a1a"
 
 # Foregrounds
-foreground = "#fbfbfb"
-dark_foreground = "#838280"
-light_foreground = "#d7d7d6"
-bright_foreground = "#fbfbfb"
+foreground = "#f3f2f0"
+dark_foreground = "#847978"
+light_foreground = "#d2cecc"
+bright_foreground = "#f3f2f0"
 
 # Normal colors
-red = "#c08b60"
-yellow = "#ffe98d"
-orange = "#ca9d78"
-green = "#e3c06f"
-cyan = "#efde6b"
-blue = "#b66b62"
-magenta = "#ec9571"
-brown = "#7c5e48"
+red = "#be6559"
+yellow = "#f9cb75"
+orange = "#c87d73"
+green = "#f6ae32"
+cyan = "#6190db"
+blue = "#99beff"
+magenta = "#ffc1b9"
+brown = "#814f49"
 
 # Bright colors
-bright_red = "#e09d66"
-bright_yellow = "#ffe66a"
-bright_green = "#ffd467"
-bright_cyan = "#fff45e"
-bright_blue = "#d67a70"
-bright_magenta = "#ffa275"
+bright_red = "#ec8775"
+bright_yellow = "#ffd532"
+bright_green = "#ffb505"
+bright_cyan = "#83b3ff"
+bright_blue = "#9ac7ff"
+bright_magenta = "#ffc3b5"
