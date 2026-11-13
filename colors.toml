@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-12 — Architecture without an architect
+# image-of-the-day — 2026-11-13 — Hidden depths
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)
+# Image: Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
 
 mode = "dark"
 
-accent = "#99beff"
-selection = "#2c1a1a"
-muted = "#726968"
+accent = "#7f7dbf"
+selection = "#1f1e5a"
+muted = "#62646b"
 
 # Backgrounds
-background = "#140000"
-dark_background = "#0f0000"
-darker_background = "#0b0000"
-lighter_background = "#2c1a1a"
+background = "#060548"
+dark_background = "#040436"
+darker_background = "#030328"
+lighter_background = "#1f1e5a"
 
 # Foregrounds
-foreground = "#f3f2f0"
-dark_foreground = "#847978"
-light_foreground = "#d2cecc"
-bright_foreground = "#f3f2f0"
+foreground = "#ffc8c1"
+dark_foreground = "#826684"
+light_foreground = "#daabaf"
+bright_foreground = "#ffc8c1"
 
 # Normal colors
-red = "#be6559"
-yellow = "#f9cb75"
-orange = "#c87d73"
-green = "#f6ae32"
-cyan = "#6190db"
-blue = "#99beff"
-magenta = "#ffc1b9"
-brown = "#814f49"
+red = "#b18bc1"
+yellow = "#acffff"
+orange = "#bd9dcb"
+green = "#95cdff"
+cyan = "#b7ddff"
+blue = "#7f7dbf"
+magenta = "#bda1f1"
+brown = "#735e7c"
 
 # Bright colors
-bright_red = "#ec8775"
-bright_yellow = "#ffd532"
-bright_green = "#ffb505"
-bright_cyan = "#83b3ff"
-bright_blue = "#9ac7ff"
-bright_magenta = "#ffc3b5"
+bright_red = "#cc9ddf"
+bright_yellow = "#91fcff"
+bright_green = "#9ae3ff"
+bright_cyan = "#c1efff"
+bright_blue = "#9491e0"
+bright_magenta = "#d7b3ff"
