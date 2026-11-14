@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-13 — Hidden depths
+# image-of-the-day — 2026-11-14 — The only way is up
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)
+# Image: Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
 
 mode = "dark"
 
-accent = "#7f7dbf"
-selection = "#1f1e5a"
-muted = "#62646b"
+accent = "#5c7cb9"
+selection = "#211e1e"
+muted = "#726969"
 
 # Backgrounds
-background = "#060548"
-dark_background = "#040436"
-darker_background = "#030328"
-lighter_background = "#1f1e5a"
+background = "#080505"
+dark_background = "#060404"
+darker_background = "#040303"
+lighter_background = "#211e1e"
 
 # Foregrounds
-foreground = "#ffc8c1"
-dark_foreground = "#826684"
-light_foreground = "#daabaf"
-bright_foreground = "#ffc8c1"
+foreground = "#f7d58f"
+dark_foreground = "#806d4a"
+light_foreground = "#d3b67a"
+bright_foreground = "#f7d58f"
 
 # Normal colors
-red = "#b18bc1"
-yellow = "#acffff"
-orange = "#bd9dcb"
-green = "#95cdff"
-cyan = "#b7ddff"
-blue = "#7f7dbf"
-magenta = "#bda1f1"
-brown = "#735e7c"
+red = "#b37d39"
+yellow = "#88801d"
+orange = "#bc905a"
+green = "#8c821f"
+cyan = "#5e8abd"
+blue = "#5c7cb9"
+magenta = "#5c80c2"
+brown = "#735836"
 
 # Bright colors
-bright_red = "#cc9ddf"
-bright_yellow = "#91fcff"
-bright_green = "#9ae3ff"
-bright_cyan = "#c1efff"
-bright_blue = "#9491e0"
-bright_magenta = "#d7b3ff"
+bright_red = "#dba049"
+bright_yellow = "#aea612"
+bright_green = "#b2a816"
+bright_cyan = "#80aef0"
+bright_blue = "#7d9eec"
+bright_magenta = "#7ea2f6"
