@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-14 — The only way is up
+# image-of-the-day — 2026-11-15 — Frosty foliage
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)
+# Image: Frozen azalea with red leaves (© avoferten/Shutterstock)
 
 mode = "dark"
 
-accent = "#5c7cb9"
-selection = "#211e1e"
-muted = "#726969"
+accent = "#af667d"
+selection = "#2b1c1a"
+muted = "#665e5b"
 
 # Backgrounds
-background = "#080505"
-dark_background = "#060404"
-darker_background = "#040303"
-lighter_background = "#211e1e"
+background = "#130300"
+dark_background = "#0e0200"
+darker_background = "#0a0200"
+lighter_background = "#2b1c1a"
 
 # Foregrounds
-foreground = "#f7d58f"
-dark_foreground = "#806d4a"
-light_foreground = "#d3b67a"
-bright_foreground = "#f7d58f"
+foreground = "#ece5ef"
+dark_foreground = "#807478"
+light_foreground = "#cbc3cb"
+bright_foreground = "#ece5ef"
 
 # Normal colors
-red = "#b37d39"
-yellow = "#88801d"
-orange = "#bc905a"
-green = "#8c821f"
-cyan = "#5e8abd"
-blue = "#5c7cb9"
-magenta = "#5c80c2"
-brown = "#735836"
+red = "#c58174"
+yellow = "#ffd89f"
+orange = "#ce9489"
+green = "#f4b27a"
+cyan = "#ffca69"
+blue = "#af667d"
+magenta = "#eb8c93"
+brown = "#7e5952"
 
 # Bright colors
-bright_red = "#dba049"
-bright_yellow = "#aea612"
-bright_green = "#b2a816"
-bright_cyan = "#80aef0"
-bright_blue = "#7d9eec"
-bright_magenta = "#7ea2f6"
+bright_red = "#e69280"
+bright_yellow = "#ffd48b"
+bright_green = "#ffc177"
+bright_cyan = "#ffdc5c"
+bright_blue = "#ce7591"
+bright_magenta = "#ff99a3"
