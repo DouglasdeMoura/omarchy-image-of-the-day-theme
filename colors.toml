@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-15 — Frosty foliage
+# image-of-the-day — 2026-11-16 — Built to last
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Frozen azalea with red leaves (© avoferten/Shutterstock)
+# Image: Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)
 
 mode = "dark"
 
-accent = "#af667d"
-selection = "#2b1c1a"
-muted = "#665e5b"
+accent = "#79c0fa"
+selection = "#271c1a"
+muted = "#716b66"
 
 # Backgrounds
-background = "#130300"
-dark_background = "#0e0200"
-darker_background = "#0a0200"
-lighter_background = "#2b1c1a"
+background = "#0f0300"
+dark_background = "#0b0200"
+darker_background = "#080200"
+lighter_background = "#271c1a"
 
 # Foregrounds
-foreground = "#ece5ef"
-dark_foreground = "#807478"
-light_foreground = "#cbc3cb"
-bright_foreground = "#ece5ef"
+foreground = "#d3e8f4"
+dark_foreground = "#71767a"
+light_foreground = "#b6c6cf"
+bright_foreground = "#d3e8f4"
 
 # Normal colors
-red = "#c58174"
-yellow = "#ffd89f"
-orange = "#ce9489"
-green = "#f4b27a"
-cyan = "#ffca69"
-blue = "#af667d"
-magenta = "#eb8c93"
-brown = "#7e5952"
+red = "#b06f12"
+yellow = "#8f8019"
+orange = "#bc8537"
+green = "#92784f"
+cyan = "#3d7eba"
+blue = "#79c0fa"
+magenta = "#2e80bb"
+brown = "#7a5623"
 
 # Bright colors
-bright_red = "#e69280"
-bright_yellow = "#ffd48b"
-bright_green = "#ffc177"
-bright_cyan = "#ffdc5c"
-bright_blue = "#ce7591"
-bright_magenta = "#ff99a3"
+bright_red = "#db9310"
+bright_yellow = "#b6a705"
+bright_green = "#b89b67"
+bright_cyan = "#61a1eb"
+bright_blue = "#8edbff"
+bright_magenta = "#53a2ec"
