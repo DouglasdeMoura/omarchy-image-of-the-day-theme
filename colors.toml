@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-16 — Built to last
+# image-of-the-day — 2026-11-17 — Step into the great outdoors
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)
+# Image: Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)
 
 mode = "dark"
 
-accent = "#79c0fa"
-selection = "#271c1a"
-muted = "#716b66"
+accent = "#4b986e"
+selection = "#282623"
+muted = "#6d6a63"
 
 # Backgrounds
-background = "#0f0300"
-dark_background = "#0b0200"
-darker_background = "#080200"
-lighter_background = "#271c1a"
+background = "#100e0a"
+dark_background = "#0c0a08"
+darker_background = "#090806"
+lighter_background = "#282622"
 
 # Foregrounds
-foreground = "#d3e8f4"
-dark_foreground = "#71767a"
-light_foreground = "#b6c6cf"
-bright_foreground = "#d3e8f4"
+foreground = "#c3e4cd"
+dark_foreground = "#6a796c"
+light_foreground = "#a8c4b0"
+bright_foreground = "#c3e4cd"
 
 # Normal colors
-red = "#b06f12"
-yellow = "#8f8019"
-orange = "#bc8537"
-green = "#92784f"
-cyan = "#3d7eba"
-blue = "#79c0fa"
-magenta = "#2e80bb"
-brown = "#7a5623"
+red = "#aa9b59"
+yellow = "#eeff9f"
+orange = "#b7aa72"
+green = "#b8d486"
+cyan = "#b0f49e"
+blue = "#4b986e"
+magenta = "#d7a952"
+brown = "#706845"
 
 # Bright colors
-bright_red = "#db9310"
-bright_yellow = "#b6a705"
-bright_green = "#b89b67"
-bright_cyan = "#61a1eb"
-bright_blue = "#8edbff"
-bright_magenta = "#53a2ec"
+bright_red = "#c3b15c"
+bright_yellow = "#eaff80"
+bright_green = "#c9ee86"
+bright_cyan = "#b8ffa1"
+bright_blue = "#50b17e"
+bright_magenta = "#f7bc43"
