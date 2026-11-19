@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-18 — Hunting from dusk till dawn
+# image-of-the-day — 2026-11-19 — Where ideas take shape
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Pair of barn owls (© Zahoor Salmi/Getty Images)
+# Image: The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)
 
 mode = "dark"
 
-accent = "#4677d5"
-selection = "#1d1f1f"
-muted = "#646d6d"
+accent = "#6080bb"
+selection = "#1a1d35"
+muted = "#5d5f66"
 
 # Backgrounds
-background = "#040606"
-dark_background = "#030404"
-darker_background = "#020303"
-lighter_background = "#1d1f1f"
+background = "#01041f"
+dark_background = "#010317"
+darker_background = "#010211"
+lighter_background = "#1a1d35"
 
 # Foregrounds
-foreground = "#ffb803"
-dark_foreground = "#825f04"
-light_foreground = "#d99d03"
-bright_foreground = "#ffb803"
+foreground = "#f3f2f1"
+dark_foreground = "#7a7b88"
+light_foreground = "#cfced2"
+bright_foreground = "#f3f2f1"
 
 # Normal colors
-red = "#d35415"
-yellow = "#9d7b1f"
-orange = "#d66f3c"
-green = "#987649"
-cyan = "#557ad4"
-blue = "#4677d5"
-magenta = "#ea5700"
-brown = "#904926"
+red = "#988bc7"
+yellow = "#83ffff"
+orange = "#a89dd0"
+green = "#71cff8"
+cyan = "#84e2ff"
+blue = "#6080bb"
+magenta = "#9ba5f4"
+brown = "#655e7f"
 
 # Bright colors
-bright_red = "#ff762c"
-bright_yellow = "#c5a11d"
-bright_green = "#be9960"
-bright_cyan = "#779cff"
-bright_blue = "#6898ff"
-bright_magenta = "#ff7916"
+bright_red = "#ae9fe8"
+bright_yellow = "#55ffff"
+bright_green = "#65e8ff"
+bright_cyan = "#81f9ff"
+bright_blue = "#6d94dd"
+bright_magenta = "#adb8ff"
