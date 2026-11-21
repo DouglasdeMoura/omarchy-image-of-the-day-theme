@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-20 — Feasting in the fjords
+# image-of-the-day — 2026-11-21 — Terracotta dreams
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)
+# Image: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)
 
 mode = "dark"
 
-accent = "#8477a5"
-selection = "#1f1d20"
-muted = "#6c676e"
+accent = "#b66b61"
+selection = "#1f2122"
+muted = "#5b6266"
 
 # Backgrounds
-background = "#060407"
-dark_background = "#040305"
-darker_background = "#030204"
-lighter_background = "#1f1d20"
+background = "#060809"
+dark_background = "#040607"
+darker_background = "#030405"
+lighter_background = "#1f2122"
 
 # Foregrounds
-foreground = "#fee849"
-dark_foreground = "#827628"
-light_foreground = "#d9c63f"
-bright_foreground = "#fee849"
+foreground = "#f7e6b6"
+dark_foreground = "#7e7760"
+light_foreground = "#d3c59c"
+bright_foreground = "#f7e6b6"
 
 # Normal colors
-red = "#ab88a9"
-yellow = "#ffdaf9"
-orange = "#b89ab6"
-green = "#aac3f4"
-cyan = "#ccd5ff"
-blue = "#8477a5"
-magenta = "#bd9dd2"
-brown = "#705d6f"
+red = "#c08b60"
+yellow = "#ffe98c"
+orange = "#ca9d78"
+green = "#e2c16f"
+cyan = "#eede6b"
+blue = "#b66b61"
+magenta = "#ec9570"
+brown = "#7c5e48"
 
 # Bright colors
-bright_red = "#c69ac4"
-bright_yellow = "#ffd7fe"
-bright_green = "#bad9ff"
-bright_cyan = "#e0eaff"
-bright_blue = "#9a8ac3"
-bright_magenta = "#d8aff2"
+bright_red = "#e09d65"
+bright_yellow = "#ffe66a"
+bright_green = "#ffd467"
+bright_cyan = "#fff45e"
+bright_blue = "#d67b6f"
+bright_magenta = "#ffa374"
