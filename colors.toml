@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-21 — Terracotta dreams
+# image-of-the-day — 2026-11-22 — Shelter among the waves
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)
+# Image: The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)
 
 mode = "dark"
 
-accent = "#b66b61"
-selection = "#1f2122"
-muted = "#5b6266"
+accent = "#8093b9"
+selection = "#281c1a"
+muted = "#645c59"
 
 # Backgrounds
-background = "#060809"
-dark_background = "#040607"
-darker_background = "#030405"
-lighter_background = "#1f2122"
+background = "#100300"
+dark_background = "#0c0200"
+darker_background = "#090200"
+lighter_background = "#281c1a"
 
 # Foregrounds
-foreground = "#f7e6b6"
-dark_foreground = "#7e7760"
-light_foreground = "#d3c59c"
-bright_foreground = "#f7e6b6"
+foreground = "#dfdcdb"
+dark_foreground = "#78706e"
+light_foreground = "#c0bbba"
+bright_foreground = "#dfdcdb"
 
 # Normal colors
-red = "#c08b60"
-yellow = "#ffe98c"
-orange = "#ca9d78"
-green = "#e2c16f"
-cyan = "#eede6b"
-blue = "#b66b61"
-magenta = "#ec9570"
-brown = "#7c5e48"
+red = "#967751"
+yellow = "#977950"
+orange = "#a58b6c"
+green = "#967c58"
+cyan = "#b2c3f6"
+blue = "#8093b9"
+magenta = "#9aa5c6"
+brown = "#6b5a45"
 
 # Bright colors
-bright_red = "#e09d65"
-bright_yellow = "#ffe66a"
-bright_green = "#ffd467"
-bright_cyan = "#fff45e"
-bright_blue = "#d67b6f"
-bright_magenta = "#ffa374"
+bright_red = "#bd9a6b"
+bright_yellow = "#be9c69"
+bright_green = "#bc9f72"
+bright_cyan = "#b7cdff"
+bright_blue = "#a4b7e7"
+bright_magenta = "#c0cbf3"
