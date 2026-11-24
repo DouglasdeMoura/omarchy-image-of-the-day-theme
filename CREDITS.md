@@ -90,6 +90,7 @@ the copyright, and images are removed on request.
 | Date | Image | Credit |
 | Date | Image | Credit |
 | Date | Image | Credit |
+| Date | Image | Credit |
 | 2026-09-02 | Painted along the shore | [Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://www.bing.com/search?q=Southwold+Suffolk&form=hpcapt&filters=HpDate%3a%2220260902_0700%22) |
 | 2026-09-03 | An act of wilderness | [Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22) |
 | 2026-09-04 | Red and white on the horizon | [Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22) |
@@ -172,3 +173,4 @@ the copyright, and images are removed on request.
 | 2026-11-20 | Feasting in the fjords | [Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0800%22) |
 | 2026-11-21 | Terracotta dreams | [Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://www.bing.com/search?q=Nice+France&form=hpcapt&filters=HpDate%3a%2220261121_0800%22) |
 | 2026-11-22 | Shelter among the waves | [The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://www.bing.com/search?q=Ermita+Santa+Justa+chapel&form=hpcapt&filters=HpDate%3a%2220261122_0800%22) |
+| 2026-11-23 | Geometry in nature | [Fiddlehead fern (© Reza Saputra/Getty Images)](https://www.bing.com/search?q=fibonacci+day&form=hpcapt&filters=HpDate%3a%2220261123_0800%22) |
