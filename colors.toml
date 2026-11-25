@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-23 — Geometry in nature
+# image-of-the-day — 2026-11-24 — Autumnal camouflage
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Fiddlehead fern (© Reza Saputra/Getty Images)
+# Image: Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)
 
 mode = "dark"
 
-accent = "#479266"
-selection = "#1b1b1a"
-muted = "#62625b"
+accent = "#b66b5e"
+selection = "#2c1c1a"
+muted = "#675f5c"
 
 # Backgrounds
-background = "#020201"
-dark_background = "#020201"
-darker_background = "#010101"
-lighter_background = "#1b1b1a"
+background = "#140300"
+dark_background = "#0f0200"
+darker_background = "#0b0200"
+lighter_background = "#2c1c1a"
 
 # Foregrounds
-foreground = "#dbe37e"
-dark_foreground = "#6e7240"
-light_foreground = "#bac16b"
-bright_foreground = "#dbe37e"
+foreground = "#ffc200"
+dark_foreground = "#8a6200"
+light_foreground = "#dca500"
+bright_foreground = "#ffc200"
 
 # Normal colors
-red = "#a79551"
-yellow = "#eafa97"
-orange = "#b4a46c"
-green = "#b4cd7f"
-cyan = "#acee94"
-blue = "#479266"
-magenta = "#d2a14b"
-brown = "#6e6441"
+red = "#bf8c5e"
+yellow = "#ffeb8c"
+orange = "#c99e77"
+green = "#dfc26f"
+cyan = "#eae06c"
+blue = "#b66b5e"
+magenta = "#eb966d"
+brown = "#7b6047"
 
 # Bright colors
-bright_red = "#bfaa55"
-bright_yellow = "#edff7e"
-bright_green = "#c6e67d"
-bright_cyan = "#b8ff99"
-bright_blue = "#4cac75"
-bright_magenta = "#f2b43c"
+bright_red = "#de9e63"
+bright_yellow = "#ffe869"
+bright_green = "#fdd667"
+bright_cyan = "#fff761"
+bright_blue = "#d67b6b"
+bright_magenta = "#ffa46f"
