@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-24 — Autumnal camouflage
+# image-of-the-day — 2026-11-25 — A southwestern snowfall
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)
+# Image: Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)
 
 mode = "dark"
 
-accent = "#b66b5e"
-selection = "#2c1c1a"
-muted = "#675f5c"
+accent = "#7688b4"
+selection = "#1a1d30"
+muted = "#696c72"
 
 # Backgrounds
-background = "#140300"
-dark_background = "#0f0200"
-darker_background = "#0b0200"
-lighter_background = "#2c1c1a"
+background = "#010419"
+dark_background = "#010313"
+darker_background = "#01020e"
+lighter_background = "#1a1d30"
 
 # Foregrounds
-foreground = "#ffc200"
-dark_foreground = "#8a6200"
-light_foreground = "#dca500"
-bright_foreground = "#ffc200"
+foreground = "#f4ede5"
+dark_foreground = "#7a787f"
+light_foreground = "#d0cac6"
+bright_foreground = "#f4ede5"
 
 # Normal colors
-red = "#bf8c5e"
-yellow = "#ffeb8c"
-orange = "#c99e77"
-green = "#dfc26f"
-cyan = "#eae06c"
-blue = "#b66b5e"
-magenta = "#eb966d"
-brown = "#7b6047"
+red = "#a57058"
+yellow = "#af8b64"
+orange = "#b28772"
+green = "#dbaf86"
+cyan = "#677fba"
+blue = "#7688b4"
+magenta = "#a2a9dd"
+brown = "#735649"
 
 # Bright colors
-bright_red = "#de9e63"
-bright_yellow = "#ffe869"
-bright_green = "#fdd667"
-bright_cyan = "#fff761"
-bright_blue = "#d67b6b"
-bright_magenta = "#ffa46f"
+bright_red = "#cd9475"
+bright_yellow = "#d7af7d"
+bright_green = "#fac995"
+bright_cyan = "#8aa2ec"
+bright_blue = "#9aabe3"
+bright_magenta = "#c5cbff"
