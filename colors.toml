@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-25 — A southwestern snowfall
+# image-of-the-day — 2026-11-26 — Turkey twins
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)
+# Image: Two wild tom turkeys (© davidsdodd/Getty Images)
 
 mode = "dark"
 
-accent = "#7688b4"
-selection = "#1a1d30"
-muted = "#696c72"
+accent = "#7e9fcd"
+selection = "#292220"
+muted = "#6c6461"
 
 # Backgrounds
-background = "#010419"
-dark_background = "#010313"
-darker_background = "#01020e"
-lighter_background = "#1a1d30"
+background = "#110907"
+dark_background = "#0d0705"
+darker_background = "#090504"
+lighter_background = "#292220"
 
 # Foregrounds
-foreground = "#f4ede5"
-dark_foreground = "#7a787f"
-light_foreground = "#d0cac6"
-bright_foreground = "#f4ede5"
+foreground = "#ebe4d6"
+dark_foreground = "#7e766e"
+light_foreground = "#cac3b7"
+bright_foreground = "#ebe4d6"
 
 # Normal colors
-red = "#a57058"
-yellow = "#af8b64"
-orange = "#b28772"
-green = "#dbaf86"
-cyan = "#677fba"
-blue = "#7688b4"
-magenta = "#a2a9dd"
-brown = "#735649"
+red = "#b07171"
+yellow = "#8d8826"
+orange = "#bc8787"
+green = "#998449"
+cyan = "#5f86b2"
+blue = "#7e9fcd"
+magenta = "#aa6c7b"
+brown = "#795555"
 
 # Bright colors
-bright_red = "#cd9475"
-bright_yellow = "#d7af7d"
-bright_green = "#fac995"
-bright_cyan = "#8aa2ec"
-bright_blue = "#9aabe3"
-bright_magenta = "#c5cbff"
+bright_red = "#db9493"
+bright_yellow = "#b2af21"
+bright_green = "#bea95c"
+bright_cyan = "#81aae2"
+bright_blue = "#a1c3fe"
+bright_magenta = "#d48ea0"
