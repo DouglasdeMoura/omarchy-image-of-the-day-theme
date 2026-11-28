@@ -1,39 +1,39 @@
-# image-of-the-day — 2026-11-26 — Turkey twins
+# image-of-the-day — 2026-11-27 — Ribbons of gray and gold
 # Generated daily by GitHub Actions from Bing's image of the day. Do not edit.
-# Image: Two wild tom turkeys (© davidsdodd/Getty Images)
+# Image: Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)
 
 mode = "dark"
 
-accent = "#7e9fcd"
-selection = "#292220"
-muted = "#6c6461"
+accent = "#8d77c0"
+selection = "#281c1a"
+muted = "#645c59"
 
 # Backgrounds
-background = "#110907"
-dark_background = "#0d0705"
-darker_background = "#090504"
-lighter_background = "#292220"
+background = "#100300"
+dark_background = "#0c0200"
+darker_background = "#090200"
+lighter_background = "#281c1a"
 
 # Foregrounds
-foreground = "#ebe4d6"
-dark_foreground = "#7e766e"
-light_foreground = "#cac3b7"
-bright_foreground = "#ebe4d6"
+foreground = "#edc7a4"
+dark_foreground = "#7e6552"
+light_foreground = "#ccaa8b"
+bright_foreground = "#edc7a4"
 
 # Normal colors
-red = "#b07171"
-yellow = "#8d8826"
-orange = "#bc8787"
-green = "#998449"
-cyan = "#5f86b2"
-blue = "#7e9fcd"
-magenta = "#aa6c7b"
-brown = "#795555"
+red = "#b86457"
+yellow = "#ecb762"
+orange = "#c37c71"
+green = "#be883b"
+cyan = "#f7d15c"
+blue = "#8d77c0"
+magenta = "#a368ad"
+brown = "#815148"
 
 # Bright colors
-bright_red = "#db9493"
-bright_yellow = "#b2af21"
-bright_green = "#bea95c"
-bright_cyan = "#81aae2"
-bright_blue = "#a1c3fe"
-bright_magenta = "#d48ea0"
+bright_red = "#e58673"
+bright_yellow = "#ffc005"
+bright_green = "#e6ac48"
+bright_cyan = "#ffde05"
+bright_blue = "#b499f4"
+bright_magenta = "#ce87de"
